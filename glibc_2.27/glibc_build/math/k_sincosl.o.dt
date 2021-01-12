@@ -1,0 +1,16 @@
+/home/khsieh3/util/glibc_2.27/glibc_build/math/k_sincosl.o: k_sincosl.c \
+ ../include/stdc-predef.h \
+ /home/khsieh3/util/glibc_2.27/glibc_build/libc-modules.h \
+ ../include/libc-symbols.h \
+ /home/khsieh3/util/glibc_2.27/glibc_build/config.h \
+ ../sysdeps/generic/symbol-hacks.h
+
+../include/stdc-predef.h:
+
+/home/khsieh3/util/glibc_2.27/glibc_build/libc-modules.h:
+
+../include/libc-symbols.h:
+
+/home/khsieh3/util/glibc_2.27/glibc_build/config.h:
+
+../sysdeps/generic/symbol-hacks.h:

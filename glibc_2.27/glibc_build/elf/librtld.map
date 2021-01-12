@@ -1,0 +1,2461 @@
+Archive member included to satisfy reference by file (symbol)
+
+/home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(check_fds.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os (__libc_check_standard_fds)
+/home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(errno.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(check_fds.os) (__libc_errno)
+/home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(setjmp.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os (__sigsetjmp)
+/home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(__longjmp.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os (__longjmp)
+/home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strchr.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os (strchr)
+/home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strcmp.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os (strcmp)
+/home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strcspn.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os (strcspn)
+/home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strdup.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os (__strdup)
+/home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strlen.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os (strlen)
+/home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strnlen.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os (strnlen)
+/home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memchr.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os (memchr)
+/home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memcmp.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os (memcmp)
+/home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memmove.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os (memmove)
+/home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memset.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os (memset)
+/home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(mempcpy.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os (__mempcpy)
+/home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(stpcpy.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os (__stpcpy)
+/home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memcpy.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(check_fds.os) (__GI_memcpy)
+/home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(rawmemchr.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os (rawmemchr)
+/home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(basename.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os (basename)
+/home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strcmp-sse2.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strcmp.os) (__strcmp_sse2)
+/home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strcmp-sse2-unaligned.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strcmp.os) (__strcmp_sse2_unaligned)
+/home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strcmp-ssse3.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strcmp.os) (__strcmp_ssse3)
+/home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memchr-sse2.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memchr.os) (__memchr_sse2)
+/home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(rawmemchr-sse2.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(rawmemchr.os) (__rawmemchr_sse2)
+/home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memchr-avx2.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memchr.os) (__memchr_avx2)
+/home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(rawmemchr-avx2.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(rawmemchr.os) (__rawmemchr_avx2)
+/home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memcmp-sse2.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memcmp.os) (__memcmp_sse2)
+/home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memcmp-avx2-movbe.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memcmp.os) (__memcmp_avx2_movbe)
+/home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memcmp-sse4.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memcmp.os) (__memcmp_sse4_1)
+/home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memcpy-ssse3.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(mempcpy.os) (__mempcpy_ssse3)
+/home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memmove-ssse3.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memmove.os) (__memmove_ssse3)
+/home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memcpy-ssse3-back.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(mempcpy.os) (__mempcpy_ssse3_back)
+/home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memmove-ssse3-back.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memmove.os) (__memmove_ssse3_back)
+/home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memmove-avx512-no-vzeroupper.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(mempcpy.os) (__mempcpy_avx512_no_vzeroupper)
+/home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strchr-sse2.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strchr.os) (__strchr_sse2)
+/home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strchr-avx2.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strchr.os) (__strchr_avx2)
+/home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strlen-sse2.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strlen.os) (__strlen_sse2)
+/home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strnlen-sse2.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strnlen.os) (__strnlen_sse2)
+/home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strlen-avx2.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strlen.os) (__strlen_avx2)
+/home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strnlen-avx2.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strnlen.os) (__strnlen_avx2)
+/home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(stpcpy-sse2.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(stpcpy.os) (__stpcpy_sse2)
+/home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(stpcpy-ssse3.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(stpcpy.os) (__stpcpy_ssse3)
+/home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(stpcpy-sse2-unaligned.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(stpcpy.os) (__stpcpy_sse2_unaligned)
+/home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strchr-sse2-no-bsf.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strchr.os) (__strchr_sse2_no_bsf)
+/home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memcmp-ssse3.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memcmp.os) (__memcmp_ssse3)
+/home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strcspn-sse2.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strcspn.os) (__strcspn_sse2)
+/home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strcspn-c.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strcspn.os) (__strcspn_sse42)
+/home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(varshift.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strcspn-c.os) (___m128i_shift_right)
+/home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memset-avx512-no-vzeroupper.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memset.os) (__memset_avx512_no_vzeroupper)
+/home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memmove-sse2-unaligned-erms.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(mempcpy.os) (__mempcpy_sse2_unaligned)
+/home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memmove-avx-unaligned-erms.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(mempcpy.os) (__mempcpy_avx_unaligned)
+/home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memmove-avx512-unaligned-erms.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(mempcpy.os) (__mempcpy_avx512_unaligned)
+/home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memset-sse2-unaligned-erms.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memset.os) (__memset_sse2_unaligned)
+/home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memset-avx2-unaligned-erms.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memset.os) (__memset_avx2_unaligned)
+/home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memset-avx512-unaligned-erms.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memset.os) (__memset_avx512_unaligned)
+/home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(cacheinfo.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memcpy-ssse3-back.os) (__x86_data_cache_size)
+/home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(closedir.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os (__closedir)
+/home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(readdir.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os (__readdir)
+/home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(rewinddir.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os (__rewinddir)
+/home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(getdents.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(readdir.os) (__getdents)
+/home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(fdopendir.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os (__fdopendir)
+/home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(uname.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os (__uname)
+/home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(_exit.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os (__GI__exit)
+/home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(getpid.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os (__getpid)
+/home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(environ.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os (__environ)
+/home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(xstat.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os (__GI___xstat64)
+/home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(fxstat.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os (__GI___fxstat64)
+/home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(lxstat.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os (__GI___lxstat64)
+/home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(open64.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os (__open)
+/home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(openat64.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os (__openat64_nocancel)
+/home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(read.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os (__libc_read)
+/home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(write.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os (__libc_write)
+/home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(lseek64.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(rewinddir.os) (__GI___lseek)
+/home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(access.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os (__access)
+/home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(fcntl.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(check_fds.os) (__GI___libc_fcntl)
+/home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(close.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os (__close)
+/home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(mmap64.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os (__mmap)
+/home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(munmap.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os (__munmap)
+/home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(mprotect.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os (__mprotect)
+/home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(profil.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os (__profil)
+/home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(prof-freq.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(profil.os) (__GI___profile_frequency)
+/home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(libc-lowlevellock.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(readdir.os) (__lll_lock_wait_private)
+/home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(libc-cancellation.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(open64.os) (__libc_enable_asynccancel)
+/home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(libc_multiple_threads.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(readdir.os) (__libc_multiple_threads)
+/home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(dl-addr-obj.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os (_dl_addr_inside_object)
+/home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(sigaction.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(profil.os) (__GI___sigaction)
+/home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strrchr.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(basename.os) (__GI_strrchr)
+/home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strrchr-sse2.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strrchr.os) (__strrchr_sse2)
+/home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strrchr-avx2.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strrchr.os) (__strrchr_avx2)
+/home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(setitimer.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(profil.os) (__setitimer)
+/home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(forward.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(libc-cancellation.os) (__pthread_unwind)
+/home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(exit.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(forward.os) (__GI_exit)
+/home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(cxa_atexit.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(exit.os) (__new_exitfn_called)
+/home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(cxa_thread_atexit_impl.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(exit.os) (__GI___call_tls_dtors)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+                0x0000000000000000                __stack_chk_fail = 0x0
+                0x0000000000000000                __stack_chk_fail_local = 0x0
+START GROUP
+LOAD /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os
+LOAD /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/libgcc.a
+END GROUP
+
+.interp
+ *(.interp)
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.hash
+ *(.hash)
+
+.gnu.hash
+ *(.gnu.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rela.init
+ *(.rela.init)
+
+.rela.text
+ *(.rela.text)
+
+.rela.fini
+ *(.rela.fini)
+
+.rela.rodata
+ *(.rela.rodata)
+
+.rela.data.rel.ro
+ *(.rela.data.rel.ro)
+
+.rela.data
+ *(.rela.data)
+
+.rela.tdata
+ *(.rela.tdata)
+
+.rela.tbss
+ *(.rela.tbss)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rela.got
+ *(.rela.got)
+
+.rela.bss
+ *(.rela.bss)
+
+.rela.ldata
+ *(.rela.ldata)
+
+.rela.lbss
+ *(.rela.lbss)
+
+.rela.lrodata
+ *(.rela.lrodata)
+
+.rela.ifunc
+ *(.rela.ifunc)
+
+.rela.plt
+ *(.rela.plt)
+
+.init
+ *(SORT_NONE(.init))
+
+.plt
+ *(.plt)
+ *(.iplt)
+
+.plt.got
+ *(.plt.got)
+
+.plt.sec
+ *(.plt.sec)
+
+.text           0x0000000000000000    0x1ed45
+ *(.text .stub)
+ .text          0x0000000000000000    0x18c00 /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os
+                0x0000000000000000                _start
+                0x0000000000000008                _dl_start_user
+                0x0000000000001240                handle_ld_preload
+                0x0000000000006950                _dl_dst_count
+                0x0000000000006a00                _dl_dst_substitute
+                0x00000000000071d0                _dl_init_paths
+                0x00000000000074d0                _dl_map_object
+                0x0000000000007f50                _dl_rtld_di_serinfo
+                0x0000000000008e80                _dl_lookup_symbol_x
+                0x0000000000009da0                _dl_setup_hash
+                0x0000000000009e50                _dl_add_to_namespace_list
+                0x0000000000009ee0                _dl_new_object
+                0x000000000000a250                _dl_try_allocate_static_tls
+                0x000000000000a330                _dl_allocate_static_tls
+                0x000000000000a360                _dl_nothread_init_static_tls
+                0x000000000000a3a0                _dl_protect_relro
+                0x000000000000a410                _dl_reloc_bad_type
+                0x000000000000a4e0                _dl_relocate_object
+                0x000000000000be20                _dl_map_object_deps
+                0x000000000000ceb0                _dl_important_hwcaps
+                0x000000000000d670                _dl_fixup
+                0x000000000000d810                _dl_profile_fixup
+                0x000000000000ddc0                _dl_call_pltexit
+                0x000000000000dfe0                _dl_init
+                0x000000000000e120                _dl_fini
+                0x000000000000e500                _dl_debug_state
+                0x000000000000e500                __GI__dl_debug_state
+                0x000000000000e510                _dl_debug_initialize
+                0x000000000000eba0                _dl_sysdep_read_whole_file
+                0x000000000000ec30                _dl_debug_printf
+                0x000000000000ece0                _dl_debug_printf_c
+                0x000000000000ed90                _dl_dprintf
+                0x000000000000ee30                _dl_name_match_p
+                0x000000000000eea0                _dl_higher_prime_number
+                0x000000000000ef20                _dl_strtoul
+                0x000000000000f090                _dl_check_map_versions
+                0x000000000000f7f0                _dl_check_all_versions
+                0x000000000000f860                _dl_start_profile
+                0x000000000000ffc0                __GI__dl_mcount
+                0x000000000000ffc0                _dl_mcount
+                0x0000000000010510                _dl_next_tls_modid
+                0x0000000000010610                _dl_count_modids
+                0x0000000000010680                _dl_determine_tlsoffset
+                0x0000000000010840                _dl_get_tls_static_info
+                0x0000000000010860                _dl_allocate_tls_storage
+                0x0000000000010920                __GI__dl_allocate_tls_init
+                0x0000000000010920                _dl_allocate_tls_init
+                0x0000000000010ba0                __GI__dl_allocate_tls
+                0x0000000000010ba0                _dl_allocate_tls
+                0x0000000000010be0                _dl_deallocate_tls
+                0x0000000000010be0                __GI__dl_deallocate_tls
+                0x0000000000010c60                _dl_update_slotinfo
+                0x0000000000010ed0                __GI___tls_get_addr
+                0x0000000000010ed0                ___tls_get_addr
+                0x0000000000010f10                _dl_tls_get_addr_soft
+                0x0000000000010f90                _dl_add_to_slotinfo
+                0x0000000000011080                __tls_get_addr_slow
+                0x00000000000110b0                _dl_get_origin
+                0x0000000000011250                _dl_scope_free
+                0x0000000000011320                _dl_make_stack_executable
+                0x0000000000011320                __GI__dl_make_stack_executable
+                0x00000000000113b0                _dl_check_caller
+                0x00000000000117a0                __GI__dl_find_dso_for_object
+                0x00000000000117a0                _dl_find_dso_for_object
+                0x0000000000011870                _dl_open
+                0x0000000000011ba0                _dl_show_scope
+                0x00000000000125e0                _dl_close_worker
+                0x0000000000013620                _dl_close
+                0x0000000000013690                _dl_runtime_profile_avx512
+                0x0000000000013b10                _dl_runtime_profile_avx
+                0x0000000000013f90                _dl_runtime_profile_sse
+                0x0000000000014190                _dl_runtime_resolve_fxsave
+                0x0000000000014210                _dl_runtime_resolve_xsave
+                0x00000000000142e0                _dl_runtime_resolve_xsavec
+                0x00000000000143d0                _dl_exception_create
+                0x00000000000143d0                __GI__dl_exception_create
+                0x00000000000144d0                __GI__dl_exception_create_format
+                0x00000000000144d0                _dl_exception_create_format
+                0x00000000000147f0                _dl_exception_free
+                0x00000000000147f0                __GI__dl_exception_free
+                0x0000000000014820                _dl_sort_maps
+                0x0000000000014b00                _dl_cache_libcmp
+                0x0000000000014bd0                _dl_load_cache_lookup
+                0x0000000000015250                _dl_unload_cache
+                0x0000000000015350                __tunable_set_val
+                0x0000000000015370                __GI___tunables_init
+                0x0000000000015830                __tunable_get_val
+                0x0000000000015830                __GI___tunable_get_val
+                0x0000000000015890                _dl_make_tlsdesc_dynamic
+                0x0000000000015b90                _dl_tlsdesc_resolve_rela_fixup
+                0x0000000000015d50                _dl_tlsdesc_resolve_hold_fixup
+                0x0000000000015d90                _dl_unmap
+                0x0000000000015e10                _dl_tlsdesc_return
+                0x0000000000015e20                _dl_tlsdesc_undefweak
+                0x0000000000015e30                _dl_tlsdesc_dynamic
+                0x0000000000015ed0                _dl_tlsdesc_resolve_rela
+                0x0000000000015f40                _dl_tlsdesc_resolve_hold
+                0x0000000000015fc0                __tls_get_addr
+                0x0000000000016000                __get_cpu_features
+                0x0000000000016010                _dl_tunable_set_hwcaps
+                0x0000000000016eb0                _dl_sysdep_start
+                0x0000000000017650                _dl_sysdep_start_cleanup
+                0x0000000000017660                _dl_show_auxv
+                0x00000000000177e0                _dl_discover_osversion
+                0x00000000000179c0                _dl_next_ld_env_entry
+                0x0000000000017a10                unsetenv
+                0x0000000000017a80                malloc
+                0x0000000000017bb0                calloc
+                0x0000000000017bf0                free
+                0x0000000000017c30                __sigjmp_save
+                0x0000000000017c40                __strerror_r
+                0x0000000000017d20                __GI___libc_fatal
+                0x0000000000017d20                __libc_fatal
+                0x0000000000017d50                __GI___chk_fail
+                0x0000000000017d50                __chk_fail
+                0x0000000000017d60                __GI___assert_fail
+                0x0000000000017d60                __assert_fail
+                0x0000000000017db0                realloc
+                0x0000000000017e40                __GI___assert_perror_fail
+                0x0000000000017e40                __assert_perror_fail
+                0x0000000000017eb0                _itoa
+                0x0000000000017f00                __strsep
+                0x0000000000017f00                strsep
+                0x0000000000017f00                __strsep_g
+                0x0000000000018040                _dl_signal_exception
+                0x0000000000018090                _dl_signal_error
+                0x00000000000180e0                _dl_signal_cexception
+                0x0000000000018160                _dl_signal_cerror
+                0x00000000000181f0                _dl_catch_exception
+                0x00000000000182a0                _dl_catch_error
+                0x00000000000182f0                _dl_receive_error
+                0x0000000000018330                _dl_resolve_conflicts
+                0x00000000000184a0                __brk
+                0x00000000000184a0                brk
+                0x00000000000184f0                sbrk
+                0x00000000000184f0                __sbrk
+                0x0000000000018580                __getcwd
+                0x0000000000018580                getcwd
+                0x00000000000189b0                openat64
+                0x0000000000018a10                __alloc_dir
+                0x0000000000018b10                __opendir
+                0x0000000000018b10                opendir
+                0x0000000000018bb0                __fxstatat
+                0x0000000000018bb0                __fxstatat64
+                0x0000000000018bb0                __GI___fxstatat64
+ .text          0x0000000000018c00       0xe2 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(check_fds.os)
+                0x0000000000018cb0                __libc_check_standard_fds
+ .text          0x0000000000018ce2        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(errno.os)
+ *fill*         0x0000000000018ce2        0xe 
+ .text          0x0000000000018cf0       0x57 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(setjmp.os)
+                0x0000000000018cf0                __sigsetjmp
+                0x0000000000018cf0                __GI___sigsetjmp
+ *fill*         0x0000000000018d47        0x9 
+ .text          0x0000000000018d50       0x50 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(__longjmp.os)
+                0x0000000000018d50                __longjmp
+ .text          0x0000000000018da0       0x3b /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strchr.os)
+                0x0000000000018da0                __GI_strchr
+                0x0000000000018da0                index
+                0x0000000000018da0                strchr
+ *fill*         0x0000000000018ddb        0x5 
+ .text          0x0000000000018de0       0x2f /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strcmp.os)
+                0x0000000000018de0                __GI_strcmp
+                0x0000000000018de0                strcmp
+ *fill*         0x0000000000018e0f        0x1 
+ .text          0x0000000000018e10       0x1e /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strcspn.os)
+                0x0000000000018e10                strcspn
+                0x0000000000018e10                __GI_strcspn
+ *fill*         0x0000000000018e2e        0x2 
+ .text          0x0000000000018e30       0x41 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strdup.os)
+                0x0000000000018e30                __GI___strdup
+                0x0000000000018e30                __strdup
+                0x0000000000018e30                strdup
+ *fill*         0x0000000000018e71        0xf 
+ .text          0x0000000000018e80       0x2a /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strlen.os)
+                0x0000000000018e80                strlen
+                0x0000000000018e80                __GI_strlen
+ *fill*         0x0000000000018eaa        0x6 
+ .text          0x0000000000018eb0       0x2a /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strnlen.os)
+                0x0000000000018eb0                __strnlen
+                0x0000000000018eb0                strnlen
+                0x0000000000018eb0                __GI___strnlen
+                0x0000000000018eb0                __GI_strnlen
+ *fill*         0x0000000000018eda        0x6 
+ .text          0x0000000000018ee0       0x2a /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memchr.os)
+                0x0000000000018ee0                __GI_memchr
+                0x0000000000018ee0                memchr
+                0x0000000000018ee0                __memchr
+ *fill*         0x0000000000018f0a        0x6 
+ .text          0x0000000000018f10       0x5e /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memcmp.os)
+                0x0000000000018f10                bcmp
+                0x0000000000018f10                __GI_memcmp
+                0x0000000000018f10                memcmp
+ *fill*         0x0000000000018f6e        0x2 
+ .text          0x0000000000018f70       0xca /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memmove.os)
+                0x0000000000018f70                memmove
+                0x0000000000018f70                __GI_memmove
+                0x0000000000018f70                __libc_memmove
+ *fill*         0x000000000001903a        0x6 
+ .text          0x0000000000019040       0x99 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memset.os)
+                0x0000000000019040                __GI_memset
+                0x0000000000019040                memset
+ *fill*         0x00000000000190d9        0x7 
+ .text          0x00000000000190e0       0xca /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(mempcpy.os)
+                0x00000000000190e0                mempcpy
+                0x00000000000190e0                __GI_mempcpy
+                0x00000000000190e0                __mempcpy
+                0x00000000000190e0                __GI___mempcpy
+ *fill*         0x00000000000191aa        0x6 
+ .text          0x00000000000191b0       0x2f /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(stpcpy.os)
+                0x00000000000191b0                stpcpy
+                0x00000000000191b0                __GI_stpcpy
+                0x00000000000191b0                __stpcpy
+                0x00000000000191b0                __GI___stpcpy
+ *fill*         0x00000000000191df        0x1 
+ .text          0x00000000000191e0       0xca /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memcpy.os)
+                0x00000000000191e0                __GI_memcpy
+                0x00000000000191e0                __new_memcpy
+                0x00000000000191e0                memcpy@@GLIBC_2.14
+ *fill*         0x00000000000192aa        0x6 
+ .text          0x00000000000192b0       0x2a /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(rawmemchr.os)
+                0x00000000000192b0                __GI___rawmemchr
+                0x00000000000192b0                __rawmemchr
+                0x00000000000192b0                rawmemchr
+ *fill*         0x00000000000192da        0x6 
+ .text          0x00000000000192e0       0x1e /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(basename.os)
+                0x00000000000192e0                __GI___basename
+                0x00000000000192e0                __GI_basename
+                0x00000000000192e0                basename
+                0x00000000000192e0                __basename
+ *fill*         0x00000000000192fe        0x2 
+ .text          0x0000000000019300     0x1439 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strcmp-sse2.os)
+                0x0000000000019300                __strcmp_sse2
+ *fill*         0x000000000001a739        0x7 
+ .text          0x000000000001a740      0x2a3 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strcmp-sse2-unaligned.os)
+                0x000000000001a740                __strcmp_sse2_unaligned
+ .text          0x000000000001a9e3        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strcmp-ssse3.os)
+ *fill*         0x000000000001a9e3        0xd 
+ .text          0x000000000001a9f0      0x323 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memchr-sse2.os)
+                0x000000000001a9f0                __memchr_sse2
+ *fill*         0x000000000001ad13        0xd 
+ .text          0x000000000001ad20      0x1f9 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(rawmemchr-sse2.os)
+                0x000000000001ad20                __rawmemchr_sse2
+ .text          0x000000000001af19        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memchr-avx2.os)
+ .text          0x000000000001af19        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(rawmemchr-avx2.os)
+ *fill*         0x000000000001af19        0x7 
+ .text          0x000000000001af20      0x400 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memcmp-sse2.os)
+                0x000000000001af20                __memcmp_sse2
+ .text          0x000000000001b320        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memcmp-avx2-movbe.os)
+ .text          0x000000000001b320        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memcmp-sse4.os)
+ .text          0x000000000001b320        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memcpy-ssse3.os)
+ .text          0x000000000001b320        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memmove-ssse3.os)
+ .text          0x000000000001b320        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memcpy-ssse3-back.os)
+ .text          0x000000000001b320        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memmove-ssse3-back.os)
+ .text          0x000000000001b320        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memmove-avx512-no-vzeroupper.os)
+ .text          0x000000000001b320      0x21a /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strchr-sse2.os)
+                0x000000000001b320                __strchr_sse2
+ .text          0x000000000001b53a        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strchr-avx2.os)
+ *fill*         0x000000000001b53a        0x6 
+ .text          0x000000000001b540      0x19c /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strlen-sse2.os)
+                0x000000000001b540                __strlen_sse2
+                0x000000000001b540                __GI___strlen_sse2
+ *fill*         0x000000000001b6dc        0x4 
+ .text          0x000000000001b6e0      0x218 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strnlen-sse2.os)
+                0x000000000001b6e0                __strnlen_sse2
+ .text          0x000000000001b8f8        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strlen-avx2.os)
+ .text          0x000000000001b8f8        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strnlen-avx2.os)
+ *fill*         0x000000000001b8f8        0x8 
+ .text          0x000000000001b900       0xdc /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(stpcpy-sse2.os)
+                0x000000000001b900                __stpcpy_sse2
+ .text          0x000000000001b9dc        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(stpcpy-ssse3.os)
+ *fill*         0x000000000001b9dc        0x4 
+ .text          0x000000000001b9e0      0x6b0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(stpcpy-sse2-unaligned.os)
+                0x000000000001b9e0                __stpcpy_sse2_unaligned
+ .text          0x000000000001c090        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strchr-sse2-no-bsf.os)
+ .text          0x000000000001c090        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memcmp-ssse3.os)
+ .text          0x000000000001c090       0x97 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strcspn-sse2.os)
+                0x000000000001c090                __strcspn_sse2
+ .text          0x000000000001c127        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strcspn-c.os)
+ .text          0x000000000001c127        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(varshift.os)
+ .text          0x000000000001c127        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memset-avx512-no-vzeroupper.os)
+ *fill*         0x000000000001c127        0x9 
+ .text          0x000000000001c130      0x3e9 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memmove-sse2-unaligned-erms.os)
+                0x000000000001c130                __mempcpy_chk_sse2_unaligned
+                0x000000000001c140                __mempcpy_sse2_unaligned
+                0x000000000001c150                __memcpy_chk_sse2_unaligned
+                0x000000000001c150                __memmove_chk_sse2_unaligned
+                0x000000000001c160                __memmove_sse2_unaligned
+                0x000000000001c160                __memcpy_sse2_unaligned
+                0x000000000001c160                memcpy@GLIBC_2.2.5
+                0x000000000001c190                __mempcpy_chk_erms
+                0x000000000001c1a0                __mempcpy_erms
+                0x000000000001c1b0                __memcpy_chk_erms
+                0x000000000001c1b0                __memmove_chk_erms
+                0x000000000001c1c0                __memmove_erms
+                0x000000000001c1c0                __memcpy_erms
+                0x000000000001c1f0                __mempcpy_chk_sse2_unaligned_erms
+                0x000000000001c200                __mempcpy_sse2_unaligned_erms
+                0x000000000001c210                __memmove_chk_sse2_unaligned_erms
+                0x000000000001c210                __memcpy_chk_sse2_unaligned_erms
+                0x000000000001c220                __memmove_sse2_unaligned_erms
+                0x000000000001c220                __memcpy_sse2_unaligned_erms
+ .text          0x000000000001c519        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memmove-avx-unaligned-erms.os)
+ .text          0x000000000001c519        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memmove-avx512-unaligned-erms.os)
+ *fill*         0x000000000001c519        0x7 
+ .text          0x000000000001c520      0x193 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memset-sse2-unaligned-erms.os)
+                0x000000000001c520                __bzero
+                0x000000000001c520                bzero
+                0x000000000001c530                __wmemset_chk_sse2_unaligned
+                0x000000000001c540                __wmemset_sse2_unaligned
+                0x000000000001c560                __memset_chk_sse2_unaligned
+                0x000000000001c570                __memset_sse2_unaligned
+                0x000000000001c5a0                __memset_chk_erms
+                0x000000000001c5b0                __memset_erms
+                0x000000000001c5c0                __memset_chk_sse2_unaligned_erms
+                0x000000000001c5d0                __memset_sse2_unaligned_erms
+ .text          0x000000000001c6b3        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memset-avx2-unaligned-erms.os)
+ .text          0x000000000001c6b3        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memset-avx512-unaligned-erms.os)
+ *fill*         0x000000000001c6b3        0xd 
+ .text          0x000000000001c6c0      0x5ad /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(cacheinfo.os)
+                0x000000000001cc40                __cache_sysconf
+ *fill*         0x000000000001cc6d        0x3 
+ .text          0x000000000001cc70       0x2c /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(closedir.os)
+                0x000000000001cc70                __closedir
+                0x000000000001cc70                closedir
+ *fill*         0x000000000001cc9c        0x4 
+ .text          0x000000000001cca0      0x100 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(readdir.os)
+                0x000000000001cca0                readdir
+                0x000000000001cca0                __readdir64
+                0x000000000001cca0                __readdir
+                0x000000000001cca0                __GI___readdir64
+                0x000000000001cca0                readdir64
+ .text          0x000000000001cda0       0x93 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(rewinddir.os)
+                0x000000000001cda0                rewinddir
+                0x000000000001cda0                __rewinddir
+                0x000000000001cda0                __GI___rewinddir
+ *fill*         0x000000000001ce33        0xd 
+ .text          0x000000000001ce40       0x8d /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(getdents.os)
+                0x000000000001ce40                __getdents
+                0x000000000001ce40                __getdents64
+ *fill*         0x000000000001cecd        0x3 
+ .text          0x000000000001ced0       0xa2 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(fdopendir.os)
+                0x000000000001ced0                fdopendir
+                0x000000000001ced0                __fdopendir
+ *fill*         0x000000000001cf72        0xe 
+ .text          0x000000000001cf80       0x21 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(uname.os)
+                0x000000000001cf80                uname
+                0x000000000001cf80                __GI_uname
+                0x000000000001cf80                __uname
+                0x000000000001cf80                __GI___uname
+ *fill*         0x000000000001cfa1        0xf 
+ .text          0x000000000001cfb0       0x58 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(_exit.os)
+                0x000000000001cfb0                _Exit
+                0x000000000001cfb0                __GI__exit
+                0x000000000001cfb0                _exit
+ *fill*         0x000000000001d008        0x8 
+ .text          0x000000000001d010        0x8 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(getpid.os)
+                0x000000000001d010                __getpid
+                0x000000000001d010                getpid
+                0x000000000001d010                __GI_getpid
+                0x000000000001d010                __GI___getpid
+ .text          0x000000000001d018        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(environ.os)
+ *fill*         0x000000000001d018        0x8 
+ .text          0x000000000001d020       0x4c /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(xstat.os)
+                0x000000000001d020                _xstat
+                0x000000000001d020                __xstat64
+                0x000000000001d020                __GI___xstat64
+                0x000000000001d020                __GI___xstat
+                0x000000000001d020                __xstat
+ *fill*         0x000000000001d06c        0x4 
+ .text          0x000000000001d070       0x4c /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(fxstat.os)
+                0x000000000001d070                __GI___fxstat
+                0x000000000001d070                __GI___fxstat64
+                0x000000000001d070                __fxstat64
+                0x000000000001d070                _fxstat
+                0x000000000001d070                __fxstat
+ *fill*         0x000000000001d0bc        0x4 
+ .text          0x000000000001d0c0       0x4c /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(lxstat.os)
+                0x000000000001d0c0                __GI___lxstat
+                0x000000000001d0c0                _lxstat
+                0x000000000001d0c0                __lxstat
+                0x000000000001d0c0                __lxstat64
+                0x000000000001d0c0                __GI___lxstat64
+ *fill*         0x000000000001d10c        0x4 
+ .text          0x000000000001d110      0x17a /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(open64.os)
+                0x000000000001d110                __GI___open64
+                0x000000000001d110                __open
+                0x000000000001d110                __GI___open
+                0x000000000001d110                __libc_open64
+                0x000000000001d110                open64
+                0x000000000001d110                __GI___libc_open
+                0x000000000001d110                open
+                0x000000000001d110                __open64
+                0x000000000001d210                __GI___open_nocancel
+                0x000000000001d210                __open_nocancel
+                0x000000000001d210                __GI___open64_nocancel
+                0x000000000001d210                __open64_nocancel
+ *fill*         0x000000000001d28a        0x6 
+ .text          0x000000000001d290      0x16a /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(openat64.os)
+                0x000000000001d290                __openat64
+                0x000000000001d290                __GI___openat
+                0x000000000001d290                __GI___openat64
+                0x000000000001d290                __libc_openat64
+                0x000000000001d290                __openat
+                0x000000000001d290                openat
+                0x000000000001d390                __GI___openat64_nocancel
+                0x000000000001d390                __openat64_nocancel
+                0x000000000001d390                __GI___openat_nocancel
+ *fill*         0x000000000001d3fa        0x6 
+ .text          0x000000000001d400       0xc4 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(read.os)
+                0x000000000001d400                __read
+                0x000000000001d400                __GI_read
+                0x000000000001d400                __libc_read
+                0x000000000001d400                __GI___read
+                0x000000000001d400                read
+                0x000000000001d400                __GI___libc_read
+                0x000000000001d4a0                __read_nocancel
+                0x000000000001d4a0                __GI___read_nocancel
+ *fill*         0x000000000001d4c4        0xc 
+ .text          0x000000000001d4d0       0xcc /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(write.os)
+                0x000000000001d4d0                __write
+                0x000000000001d4d0                __GI_write
+                0x000000000001d4d0                write
+                0x000000000001d4d0                __GI___libc_write
+                0x000000000001d4d0                __GI___write
+                0x000000000001d4d0                __libc_write
+                0x000000000001d570                __GI___write_nocancel
+                0x000000000001d570                __write_nocancel
+ *fill*         0x000000000001d59c        0x4 
+ .text          0x000000000001d5a0       0x2c /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(lseek64.os)
+                0x000000000001d5a0                __GI___lseek
+                0x000000000001d5a0                __lseek64
+                0x000000000001d5a0                lseek
+                0x000000000001d5a0                __libc_lseek64
+                0x000000000001d5a0                llseek
+                0x000000000001d5a0                __lseek
+                0x000000000001d5a0                __libc_lseek
+                0x000000000001d5a0                lseek64
+ *fill*         0x000000000001d5cc        0x4 
+ .text          0x000000000001d5d0       0x2a /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(access.os)
+                0x000000000001d5d0                access
+                0x000000000001d5d0                __access
+ *fill*         0x000000000001d5fa        0x6 
+ .text          0x000000000001d600      0x15f /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(fcntl.os)
+                0x000000000001d660                __libc_fcntl
+                0x000000000001d660                __GI___libc_fcntl
+                0x000000000001d660                __GI___fcntl
+                0x000000000001d660                __fcntl
+                0x000000000001d660                fcntl
+                0x000000000001d730                __GI___fcntl_nocancel
+                0x000000000001d730                __fcntl_nocancel
+ *fill*         0x000000000001d75f        0x1 
+ .text          0x000000000001d760       0xaa /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(close.os)
+                0x000000000001d760                __libc_close
+                0x000000000001d760                __close
+                0x000000000001d760                __GI___close
+                0x000000000001d760                close
+                0x000000000001d7e0                __GI___close_nocancel
+                0x000000000001d7e0                __close_nocancel
+ *fill*         0x000000000001d80a        0x6 
+ .text          0x000000000001d810       0xe0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(mmap64.os)
+                0x000000000001d810                __GI___mmap
+                0x000000000001d810                __mmap
+                0x000000000001d810                mmap
+                0x000000000001d810                __GI___mmap64
+                0x000000000001d810                __mmap64
+                0x000000000001d810                mmap64
+ .text          0x000000000001d8f0       0x21 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(munmap.os)
+                0x000000000001d8f0                munmap
+                0x000000000001d8f0                __GI___munmap
+                0x000000000001d8f0                __GI_munmap
+                0x000000000001d8f0                __munmap
+ *fill*         0x000000000001d911        0xf 
+ .text          0x000000000001d920       0x21 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(mprotect.os)
+                0x000000000001d920                __mprotect
+                0x000000000001d920                __GI___mprotect
+                0x000000000001d920                __GI_mprotect
+                0x000000000001d920                mprotect
+ *fill*         0x000000000001d941        0xf 
+ .text          0x000000000001d950      0x1c1 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(profil.os)
+                0x000000000001d9a0                __profil
+                0x000000000001d9a0                profil
+ *fill*         0x000000000001db11        0xf 
+ .text          0x000000000001db20        0xb /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(prof-freq.os)
+                0x000000000001db20                __GI___profile_frequency
+                0x000000000001db20                __profile_frequency
+ *fill*         0x000000000001db2b        0x5 
+ .text          0x000000000001db30       0x4c /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(libc-lowlevellock.os)
+                0x000000000001db30                __lll_lock_wait_private
+                0x000000000001db60                __lll_unlock_wake_private
+ *fill*         0x000000000001db7c        0x4 
+ .text          0x000000000001db80       0xb9 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(libc-cancellation.os)
+                0x000000000001db80                __libc_enable_asynccancel
+                0x000000000001dbe0                __libc_disable_asynccancel
+ .text          0x000000000001dc39        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(libc_multiple_threads.os)
+ *fill*         0x000000000001dc39        0x7 
+ .text          0x000000000001dc40       0x53 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(dl-addr-obj.os)
+                0x000000000001dc40                _dl_addr_inside_object
+ *fill*         0x000000000001dc93        0xd 
+ .text          0x000000000001dca0      0x1e4 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(sigaction.os)
+                0x000000000001dcc0                __libc_sigaction
+                0x000000000001dcc0                __GI___libc_sigaction
+                0x000000000001de60                sigaction
+                0x000000000001de60                __GI___sigaction
+                0x000000000001de60                __sigaction
+ *fill*         0x000000000001de84        0xc 
+ .text          0x000000000001de90       0x2a /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strrchr.os)
+                0x000000000001de90                strrchr
+                0x000000000001de90                rindex
+                0x000000000001de90                __GI_strrchr
+ *fill*         0x000000000001deba        0x6 
+ .text          0x000000000001dec0      0x2e2 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strrchr-sse2.os)
+                0x000000000001dec0                __strrchr_sse2
+ .text          0x000000000001e1a2        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strrchr-avx2.os)
+ *fill*         0x000000000001e1a2        0xe 
+ .text          0x000000000001e1b0       0x21 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(setitimer.os)
+                0x000000000001e1b0                setitimer
+                0x000000000001e1b0                __setitimer
+                0x000000000001e1b0                __GI_setitimer
+                0x000000000001e1b0                __GI___setitimer
+ *fill*         0x000000000001e1d1        0xf 
+ .text          0x000000000001e1e0      0x593 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(forward.os)
+                0x000000000001e1e0                pthread_equal
+                0x000000000001e210                pthread_attr_destroy
+                0x000000000001e240                pthread_attr_init@@GLIBC_2.2.5
+                0x000000000001e240                __pthread_attr_init_2_1
+                0x000000000001e270                pthread_attr_getdetachstate
+                0x000000000001e2a0                pthread_attr_setdetachstate
+                0x000000000001e2d0                pthread_attr_getinheritsched
+                0x000000000001e300                pthread_attr_setinheritsched
+                0x000000000001e330                pthread_attr_getschedparam
+                0x000000000001e360                pthread_attr_setschedparam
+                0x000000000001e390                pthread_attr_getschedpolicy
+                0x000000000001e3c0                pthread_attr_setschedpolicy
+                0x000000000001e3f0                pthread_attr_getscope
+                0x000000000001e420                pthread_attr_setscope
+                0x000000000001e450                pthread_condattr_destroy
+                0x000000000001e480                pthread_condattr_init
+                0x000000000001e4b0                pthread_cond_broadcast@@GLIBC_2.3.2
+                0x000000000001e4b0                __pthread_cond_broadcast
+                0x000000000001e4e0                pthread_cond_destroy@@GLIBC_2.3.2
+                0x000000000001e4e0                __pthread_cond_destroy
+                0x000000000001e510                pthread_cond_init@@GLIBC_2.3.2
+                0x000000000001e510                __pthread_cond_init
+                0x000000000001e540                pthread_cond_signal@@GLIBC_2.3.2
+                0x000000000001e540                __pthread_cond_signal
+                0x000000000001e570                pthread_cond_wait@@GLIBC_2.3.2
+                0x000000000001e570                __pthread_cond_wait
+                0x000000000001e5a0                pthread_cond_timedwait@@GLIBC_2.3.2
+                0x000000000001e5a0                __pthread_cond_timedwait
+                0x000000000001e5d0                pthread_exit
+                0x000000000001e5d0                __pthread_exit
+                0x000000000001e600                pthread_getschedparam
+                0x000000000001e630                pthread_setschedparam
+                0x000000000001e660                pthread_mutex_destroy
+                0x000000000001e690                pthread_mutex_init
+                0x000000000001e6c0                pthread_mutex_lock
+                0x000000000001e6f0                pthread_mutex_unlock
+                0x000000000001e720                __pthread_setcancelstate
+                0x000000000001e720                pthread_setcancelstate
+                0x000000000001e750                pthread_setcanceltype
+ *fill*         0x000000000001e773        0xd 
+ .text          0x000000000001e780      0x26a /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(exit.os)
+                0x000000000001e780                __run_exit_handlers
+                0x000000000001e9d0                __GI_exit
+                0x000000000001e9d0                exit
+ *fill*         0x000000000001e9ea        0x6 
+ .text          0x000000000001e9f0      0x21c /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(cxa_atexit.os)
+                0x000000000001e9f0                __new_exitfn
+                0x000000000001eb10                __internal_atexit
+                0x000000000001ec00                __cxa_atexit
+                0x000000000001ec00                __GI___cxa_atexit
+ *fill*         0x000000000001ec0c        0x4 
+ .text          0x000000000001ec10      0x135 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(cxa_thread_atexit_impl.os)
+                0x000000000001ec10                __cxa_thread_atexit_impl
+                0x000000000001ece0                __GI___call_tls_dtors
+                0x000000000001ece0                __call_tls_dtors
+ *(.gnu.warning)
+
+.text.unlikely  0x0000000000000000      0x172
+ .text.unlikely
+                0x0000000000000000      0x172 /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os
+
+.text.ssse3     0x0000000000000000     0xd5e3
+ .text.ssse3    0x0000000000000000     0x1259 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strcmp-ssse3.os)
+                0x0000000000000000                __GI___strcmp_ssse3
+                0x0000000000000000                __strcmp_ssse3
+ *fill*         0x0000000000001259        0x7 
+ .text.ssse3    0x0000000000001260     0x29e6 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memcpy-ssse3.os)
+                0x0000000000001260                __mempcpy_chk_ssse3
+                0x0000000000001270                __mempcpy_ssse3
+                0x0000000000001280                __memcpy_chk_ssse3
+                0x0000000000001290                __memcpy_ssse3
+ *fill*         0x0000000000003c46        0xa 
+ .text.ssse3    0x0000000000003c50     0x2b77 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memmove-ssse3.os)
+                0x0000000000003c50                __memmove_chk_ssse3
+                0x0000000000003c60                __memmove_ssse3
+ *fill*         0x00000000000067c7        0x9 
+ .text.ssse3    0x00000000000067d0     0x2ae6 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memcpy-ssse3-back.os)
+                0x00000000000067d0                __mempcpy_chk_ssse3_back
+                0x00000000000067e0                __mempcpy_ssse3_back
+                0x00000000000067f0                __memcpy_chk_ssse3_back
+                0x0000000000006800                __memcpy_ssse3_back
+ *fill*         0x00000000000092b6        0xa 
+ .text.ssse3    0x00000000000092c0     0x2b16 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memmove-ssse3-back.os)
+                0x00000000000092c0                __memmove_chk_ssse3_back
+                0x00000000000092d0                __memmove_ssse3_back
+ *fill*         0x000000000000bdd6        0xa 
+ .text.ssse3    0x000000000000bde0     0x1803 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(stpcpy-ssse3.os)
+                0x000000000000bde0                __stpcpy_ssse3
+
+.text.avx       0x0000000000000000     0x16b6
+ .text.avx      0x0000000000000000      0x2cd /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memchr-avx2.os)
+                0x0000000000000000                __memchr_avx2
+ *fill*         0x00000000000002cd        0x3 
+ .text.avx      0x00000000000002d0      0x13d /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(rawmemchr-avx2.os)
+                0x00000000000002d0                __rawmemchr_avx2
+ *fill*         0x000000000000040d        0x3 
+ .text.avx      0x0000000000000410      0x3d4 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memcmp-avx2-movbe.os)
+                0x0000000000000410                __memcmp_avx2_movbe
+ *fill*         0x00000000000007e4        0xc 
+ .text.avx      0x00000000000007f0      0x224 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strchr-avx2.os)
+                0x00000000000007f0                __strchr_avx2
+ *fill*         0x0000000000000a14        0xc 
+ .text.avx      0x0000000000000a20      0x190 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strlen-avx2.os)
+                0x0000000000000a20                __strlen_avx2
+ .text.avx      0x0000000000000bb0      0x320 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strnlen-avx2.os)
+                0x0000000000000bb0                __strnlen_avx2
+ .text.avx      0x0000000000000ed0      0x464 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memmove-avx-unaligned-erms.os)
+                0x0000000000000ed0                __mempcpy_chk_avx_unaligned
+                0x0000000000000ee0                __mempcpy_avx_unaligned
+                0x0000000000000ef0                __memcpy_chk_avx_unaligned
+                0x0000000000000ef0                __memmove_chk_avx_unaligned
+                0x0000000000000f00                __memcpy_avx_unaligned
+                0x0000000000000f00                __memmove_avx_unaligned
+                0x0000000000000f30                __mempcpy_chk_avx_unaligned_erms
+                0x0000000000000f40                __mempcpy_avx_unaligned_erms
+                0x0000000000000f50                __memmove_chk_avx_unaligned_erms
+                0x0000000000000f50                __memcpy_chk_avx_unaligned_erms
+                0x0000000000000f60                __memcpy_avx_unaligned_erms
+                0x0000000000000f60                __memmove_avx_unaligned_erms
+ *fill*         0x0000000000001334        0xc 
+ .text.avx      0x0000000000001340      0x1ab /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memset-avx2-unaligned-erms.os)
+                0x0000000000001340                __wmemset_chk_avx2_unaligned
+                0x0000000000001350                __wmemset_avx2_unaligned
+                0x0000000000001370                __memset_chk_avx2_unaligned
+                0x0000000000001380                __memset_avx2_unaligned
+                0x00000000000013b0                __memset_avx2_erms
+                0x00000000000013d0                __memset_chk_avx2_unaligned_erms
+                0x00000000000013e0                __memset_avx2_unaligned_erms
+ *fill*         0x00000000000014eb        0x5 
+ .text.avx      0x00000000000014f0      0x1c6 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strrchr-avx2.os)
+                0x00000000000014f0                __strrchr_avx2
+
+.text.sse4.1    0x0000000000000000     0x163e
+ .text.sse4.1   0x0000000000000000     0x163e /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memcmp-sse4.os)
+                0x0000000000000000                __memcmp_sse4_1
+
+.text.avx512    0x0000000000000000     0x1191
+ .text.avx512   0x0000000000000000      0x768 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memmove-avx512-no-vzeroupper.os)
+                0x0000000000000000                __mempcpy_chk_avx512_no_vzeroupper
+                0x0000000000000010                __mempcpy_avx512_no_vzeroupper
+                0x0000000000000020                __memcpy_chk_avx512_no_vzeroupper
+                0x0000000000000020                __memmove_chk_avx512_no_vzeroupper
+                0x0000000000000030                __memcpy_avx512_no_vzeroupper
+                0x0000000000000030                __memmove_avx512_no_vzeroupper
+ *fill*         0x0000000000000768        0x8 
+ .text.avx512   0x0000000000000770      0x280 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memset-avx512-no-vzeroupper.os)
+                0x0000000000000770                __memset_chk_avx512_no_vzeroupper
+                0x0000000000000780                __memset_avx512_no_vzeroupper
+ .text.avx512   0x00000000000009f0      0x598 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memmove-avx512-unaligned-erms.os)
+                0x00000000000009f0                __mempcpy_chk_avx512_unaligned
+                0x0000000000000a00                __mempcpy_avx512_unaligned
+                0x0000000000000a10                __memcpy_chk_avx512_unaligned
+                0x0000000000000a10                __memmove_chk_avx512_unaligned
+                0x0000000000000a20                __memmove_avx512_unaligned
+                0x0000000000000a20                __memcpy_avx512_unaligned
+                0x0000000000000a60                __mempcpy_chk_avx512_unaligned_erms
+                0x0000000000000a70                __mempcpy_avx512_unaligned_erms
+                0x0000000000000a80                __memcpy_chk_avx512_unaligned_erms
+                0x0000000000000a80                __memmove_chk_avx512_unaligned_erms
+                0x0000000000000a90                __memmove_avx512_unaligned_erms
+                0x0000000000000a90                __memcpy_avx512_unaligned_erms
+ *fill*         0x0000000000000f88        0x8 
+ .text.avx512   0x0000000000000f90      0x201 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memset-avx512-unaligned-erms.os)
+                0x0000000000000f90                __wmemset_chk_avx512_unaligned
+                0x0000000000000fa0                __wmemset_avx512_unaligned
+                0x0000000000000fc0                __memset_chk_avx512_unaligned
+                0x0000000000000fd0                __memset_avx512_unaligned
+                0x0000000000001010                __memset_avx512_erms
+                0x0000000000001030                __memset_chk_avx512_unaligned_erms
+                0x0000000000001040                __memset_avx512_unaligned_erms
+
+.text.atom      0x0000000000000000     0x1a83
+ .text.atom     0x0000000000000000      0x315 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strchr-sse2-no-bsf.os)
+                0x0000000000000000                __strchr_sse2_no_bsf
+ *fill*         0x0000000000000315        0xb 
+ .text.atom     0x0000000000000320     0x1763 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memcmp-ssse3.os)
+                0x0000000000000320                __memcmp_ssse3
+
+.text.sse4.2    0x0000000000000000      0x131
+ .text.sse4.2   0x0000000000000000      0x131 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strcspn-c.os)
+                0x0000000000000000                __strcspn_sse42
+
+.text.startup   0x0000000000000000      0x497
+ .text.startup  0x0000000000000000      0x497 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(cacheinfo.os)
+
+.text.compat    0x0000000000000000      0x15f
+ .text.compat   0x0000000000000000      0x15f /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(forward.os)
+                0x0000000000000000                pthread_cond_broadcast@GLIBC_2.2.5
+                0x0000000000000000                __pthread_cond_broadcast_2_0
+                0x0000000000000030                __pthread_cond_destroy_2_0
+                0x0000000000000030                pthread_cond_destroy@GLIBC_2.2.5
+                0x0000000000000060                __pthread_cond_init_2_0
+                0x0000000000000060                pthread_cond_init@GLIBC_2.2.5
+                0x0000000000000090                __pthread_cond_signal_2_0
+                0x0000000000000090                pthread_cond_signal@GLIBC_2.2.5
+                0x00000000000000c0                pthread_cond_wait@GLIBC_2.2.5
+                0x00000000000000c0                __pthread_cond_wait_2_0
+                0x00000000000000f0                pthread_cond_timedwait@GLIBC_2.2.5
+                0x00000000000000f0                __pthread_cond_timedwait_2_0
+                0x0000000000000120                __pthread_unwind
+
+.fini
+ *(SORT_NONE(.fini))
+
+.rodata         0x0000000000000000     0x1160
+ *(.rodata)
+ .rodata        0x0000000000000000      0xd48 /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os
+                0x0000000000000ca0                __GI__itoa_lower_digits
+                0x0000000000000ca0                _itoa_lower_digits
+ .rodata        0x0000000000000d48       0x40 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strcmp-sse2.os)
+ .rodata        0x0000000000000d88       0x40 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strcmp-ssse3.os)
+ .rodata        0x0000000000000dc8       0x80 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(stpcpy-sse2-unaligned.os)
+ *fill*         0x0000000000000e48        0x8 
+ .rodata        0x0000000000000e50       0x1f /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(varshift.os)
+                0x0000000000000e50                ___m128i_shift_right
+ *fill*         0x0000000000000e6f       0x11 
+ .rodata        0x0000000000000e80      0x2e0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(cacheinfo.os)
+
+.rodata.str1.1  0x0000000000000000     0x1266
+ .rodata.str1.1
+                0x0000000000000000     0x1202 /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os
+ .rodata.str1.1
+                0x0000000000001202       0x14 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(check_fds.os)
+ .rodata.str1.1
+                0x0000000000001216       0x39 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(cacheinfo.os)
+ .rodata.str1.1
+                0x000000000000124f       0x17 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(cxa_atexit.os)
+
+.rodata.str1.8  0x0000000000000000     0x2565
+ .rodata.str1.8
+                0x0000000000000000     0x2541 /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os
+ *fill*         0x0000000000002541        0x7 
+ .rodata.str1.8
+                0x0000000000002548        0xb /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(cacheinfo.os)
+ *fill*         0x0000000000002553        0x5 
+ .rodata.str1.8
+                0x0000000000002558        0xd /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(cxa_atexit.os)
+
+.rodata.str1.16
+                0x0000000000000000      0x391
+ .rodata.str1.16
+                0x0000000000000000      0x376 /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os
+ *fill*         0x0000000000000376        0xa 
+ .rodata.str1.16
+                0x0000000000000380       0x11 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(cacheinfo.os)
+
+.rodata.cst16   0x0000000000000000       0x20
+ .rodata.cst16  0x0000000000000000       0x20 /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os
+
+.rodata.cst4    0x0000000000000000        0x4
+ .rodata.cst4   0x0000000000000000        0x4 /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os
+
+.rodata.str1.32
+                0x0000000000000000       0x3b
+ .rodata.str1.32
+                0x0000000000000000       0x3b /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os
+
+.rodata.sse4.1  0x0000000000000000      0x140
+ .rodata.sse4.1
+                0x0000000000000000      0x140 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memcmp-sse4.os)
+
+.rodata.ssse3   0x0000000000000000      0xd80
+ .rodata.ssse3  0x0000000000000000      0x1c0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memcpy-ssse3.os)
+ .rodata.ssse3  0x00000000000001c0      0x1c0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memmove-ssse3.os)
+ .rodata.ssse3  0x0000000000000380      0x500 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memcpy-ssse3-back.os)
+ .rodata.ssse3  0x0000000000000880      0x500 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memmove-ssse3-back.os)
+
+.rodata1
+ *(.rodata1)
+
+.eh_frame_hdr
+ *(.eh_frame_hdr)
+
+.eh_frame       0x0000000000000000     0x433c
+ *(.eh_frame)
+ .eh_frame      0x0000000000000000     0x24c0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os
+                                       0x2504 (size before relaxing)
+ *fill*         0x00000000000024c0        0x0 
+ .eh_frame      0x00000000000024c0       0x68 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(check_fds.os)
+ .eh_frame      0x0000000000002528       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(setjmp.os)
+ .eh_frame      0x0000000000002558       0x48 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(__longjmp.os)
+ .eh_frame      0x00000000000025a0       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strchr.os)
+ .eh_frame      0x00000000000025d0       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strcmp.os)
+ .eh_frame      0x0000000000002600       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strcspn.os)
+ .eh_frame      0x0000000000002630       0x50 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strdup.os)
+ .eh_frame      0x0000000000002680       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strlen.os)
+ .eh_frame      0x00000000000026b0       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strnlen.os)
+ .eh_frame      0x00000000000026e0       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memchr.os)
+ .eh_frame      0x0000000000002710       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memcmp.os)
+ .eh_frame      0x0000000000002740       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memmove.os)
+ .eh_frame      0x0000000000002770       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memset.os)
+ .eh_frame      0x00000000000027a0       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(mempcpy.os)
+ .eh_frame      0x00000000000027d0       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(stpcpy.os)
+ .eh_frame      0x0000000000002800       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memcpy.os)
+ .eh_frame      0x0000000000002830       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(rawmemchr.os)
+ .eh_frame      0x0000000000002860       0x38 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(basename.os)
+ .eh_frame      0x0000000000002898       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strcmp-sse2.os)
+ .eh_frame      0x00000000000028c8       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strcmp-sse2-unaligned.os)
+ .eh_frame      0x00000000000028f8       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strcmp-ssse3.os)
+ .eh_frame      0x0000000000002928       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memchr-sse2.os)
+ .eh_frame      0x0000000000002958       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(rawmemchr-sse2.os)
+ .eh_frame      0x0000000000002988       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memchr-avx2.os)
+ .eh_frame      0x00000000000029b8       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(rawmemchr-avx2.os)
+ .eh_frame      0x00000000000029e8       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memcmp-sse2.os)
+ .eh_frame      0x0000000000002a18       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memcmp-avx2-movbe.os)
+ .eh_frame      0x0000000000002a48       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memcmp-sse4.os)
+ .eh_frame      0x0000000000002a78       0x68 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memcpy-ssse3.os)
+ .eh_frame      0x0000000000002ae0       0x40 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memmove-ssse3.os)
+ .eh_frame      0x0000000000002b20       0x68 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memcpy-ssse3-back.os)
+ .eh_frame      0x0000000000002b88       0x40 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memmove-ssse3-back.os)
+ .eh_frame      0x0000000000002bc8       0x68 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memmove-avx512-no-vzeroupper.os)
+ .eh_frame      0x0000000000002c30       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strchr-sse2.os)
+ .eh_frame      0x0000000000002c60       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strchr-avx2.os)
+ .eh_frame      0x0000000000002c90       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strlen-sse2.os)
+ .eh_frame      0x0000000000002cc0       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strnlen-sse2.os)
+ .eh_frame      0x0000000000002cf0       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strlen-avx2.os)
+ .eh_frame      0x0000000000002d20       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strnlen-avx2.os)
+ .eh_frame      0x0000000000002d50       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(stpcpy-sse2.os)
+ .eh_frame      0x0000000000002d80       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(stpcpy-ssse3.os)
+ .eh_frame      0x0000000000002db0       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(stpcpy-sse2-unaligned.os)
+ .eh_frame      0x0000000000002de0       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strchr-sse2-no-bsf.os)
+ .eh_frame      0x0000000000002e10       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memcmp-ssse3.os)
+ .eh_frame      0x0000000000002e40       0x38 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strcspn-sse2.os)
+ .eh_frame      0x0000000000002e78       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strcspn-c.os)
+ .eh_frame      0x0000000000002ea8       0x40 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memset-avx512-no-vzeroupper.os)
+ .eh_frame      0x0000000000002ee8      0x108 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memmove-sse2-unaligned-erms.os)
+ .eh_frame      0x0000000000002ff0       0xb8 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memmove-avx-unaligned-erms.os)
+ .eh_frame      0x00000000000030a8       0xb8 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memmove-avx512-unaligned-erms.os)
+ .eh_frame      0x0000000000003160       0xd0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memset-sse2-unaligned-erms.os)
+ .eh_frame      0x0000000000003230       0xa8 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memset-avx2-unaligned-erms.os)
+ .eh_frame      0x00000000000032d8       0xa8 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memset-avx512-unaligned-erms.os)
+ .eh_frame      0x0000000000003380      0x198 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(cacheinfo.os)
+ .eh_frame      0x0000000000003518       0x38 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(closedir.os)
+ .eh_frame      0x0000000000003550       0x68 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(readdir.os)
+ .eh_frame      0x00000000000035b8       0x40 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(rewinddir.os)
+ .eh_frame      0x00000000000035f8       0x68 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(getdents.os)
+ .eh_frame      0x0000000000003660       0x50 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(fdopendir.os)
+ .eh_frame      0x00000000000036b0       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(uname.os)
+ .eh_frame      0x00000000000036e0       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(_exit.os)
+ .eh_frame      0x0000000000003710       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(getpid.os)
+ .eh_frame      0x0000000000003740       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(xstat.os)
+ .eh_frame      0x0000000000003770       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(fxstat.os)
+ .eh_frame      0x00000000000037a0       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(lxstat.os)
+ .eh_frame      0x00000000000037d0       0x68 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(open64.os)
+ .eh_frame      0x0000000000003838       0x70 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(openat64.os)
+ .eh_frame      0x00000000000038a8       0x68 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(read.os)
+ .eh_frame      0x0000000000003910       0x68 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(write.os)
+ .eh_frame      0x0000000000003978       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(lseek64.os)
+ .eh_frame      0x00000000000039a8       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(access.os)
+ .eh_frame      0x00000000000039d8       0x68 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(fcntl.os)
+ .eh_frame      0x0000000000003a40       0x58 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(close.os)
+ .eh_frame      0x0000000000003a98       0x70 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(mmap64.os)
+ .eh_frame      0x0000000000003b08       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(munmap.os)
+ .eh_frame      0x0000000000003b38       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(mprotect.os)
+ .eh_frame      0x0000000000003b68       0x80 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(profil.os)
+ .eh_frame      0x0000000000003be8       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(prof-freq.os)
+ .eh_frame      0x0000000000003c18       0x60 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(libc-lowlevellock.os)
+ .eh_frame      0x0000000000003c78       0x40 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(libc-cancellation.os)
+ .eh_frame      0x0000000000003cb8       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(dl-addr-obj.os)
+ .eh_frame      0x0000000000003ce8       0xe0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(sigaction.os)
+                                         0xe8 (size before relaxing)
+ .eh_frame      0x0000000000003dc8       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strrchr.os)
+ .eh_frame      0x0000000000003df8       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strrchr-sse2.os)
+ .eh_frame      0x0000000000003e28       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strrchr-avx2.os)
+ .eh_frame      0x0000000000003e58       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(setitimer.os)
+ .eh_frame      0x0000000000003e88      0x300 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(forward.os)
+ .eh_frame      0x0000000000004188       0x88 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(exit.os)
+ .eh_frame      0x0000000000004210       0xb0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(cxa_atexit.os)
+ .eh_frame      0x00000000000042c0       0x7c /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(cxa_thread_atexit_impl.os)
+                                         0x80 (size before relaxing)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.gnu_extab
+ *(.gnu_extab*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+
+.eh_frame
+ *(.eh_frame)
+
+.gnu_extab
+ *(.gnu_extab)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+
+.tdata
+ *(.tdata)
+
+.tbss           0x0000000000000000       0x18
+ *(.tbss)
+ .tbss          0x0000000000000000        0x4 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(errno.os)
+                0x0000000000000000                errno
+                0x0000000000000000                __libc_errno
+ *fill*         0x0000000000000004        0x4 
+ .tbss          0x0000000000000008       0x10 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(cxa_thread_atexit_impl.os)
+
+.jcr
+ *(.jcr)
+
+.dynamic
+ *(.dynamic)
+
+.got
+ *(.got)
+ *(.igot)
+
+.got.plt
+ *(.got.plt)
+ *(.igot.plt)
+
+.data           0x0000000000000000      0xfb8
+ *(.data)
+ .data          0x0000000000000000      0xf78 /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os
+                0x0000000000000000                _rtld_global
+                0x0000000000000000                _rtld_local
+ .data          0x0000000000000f78        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(check_fds.os)
+ .data          0x0000000000000f78        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(errno.os)
+ .data          0x0000000000000f78        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(setjmp.os)
+ .data          0x0000000000000f78        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(__longjmp.os)
+ .data          0x0000000000000f78        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strchr.os)
+ .data          0x0000000000000f78        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strcmp.os)
+ .data          0x0000000000000f78        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strcspn.os)
+ .data          0x0000000000000f78        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strdup.os)
+ .data          0x0000000000000f78        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strlen.os)
+ .data          0x0000000000000f78        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strnlen.os)
+ .data          0x0000000000000f78        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memchr.os)
+ .data          0x0000000000000f78        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memcmp.os)
+ .data          0x0000000000000f78        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memmove.os)
+ .data          0x0000000000000f78        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memset.os)
+ .data          0x0000000000000f78        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(mempcpy.os)
+ .data          0x0000000000000f78        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(stpcpy.os)
+ .data          0x0000000000000f78        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memcpy.os)
+ .data          0x0000000000000f78        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(rawmemchr.os)
+ .data          0x0000000000000f78        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(basename.os)
+ .data          0x0000000000000f78        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strcmp-sse2.os)
+ .data          0x0000000000000f78        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strcmp-sse2-unaligned.os)
+ .data          0x0000000000000f78        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strcmp-ssse3.os)
+ .data          0x0000000000000f78        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memchr-sse2.os)
+ .data          0x0000000000000f78        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(rawmemchr-sse2.os)
+ .data          0x0000000000000f78        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memchr-avx2.os)
+ .data          0x0000000000000f78        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(rawmemchr-avx2.os)
+ .data          0x0000000000000f78        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memcmp-sse2.os)
+ .data          0x0000000000000f78        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memcmp-avx2-movbe.os)
+ .data          0x0000000000000f78        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memcmp-sse4.os)
+ .data          0x0000000000000f78        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memcpy-ssse3.os)
+ .data          0x0000000000000f78        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memmove-ssse3.os)
+ .data          0x0000000000000f78        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memcpy-ssse3-back.os)
+ .data          0x0000000000000f78        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memmove-ssse3-back.os)
+ .data          0x0000000000000f78        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memmove-avx512-no-vzeroupper.os)
+ .data          0x0000000000000f78        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strchr-sse2.os)
+ .data          0x0000000000000f78        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strchr-avx2.os)
+ .data          0x0000000000000f78        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strlen-sse2.os)
+ .data          0x0000000000000f78        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strnlen-sse2.os)
+ .data          0x0000000000000f78        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strlen-avx2.os)
+ .data          0x0000000000000f78        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strnlen-avx2.os)
+ .data          0x0000000000000f78        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(stpcpy-sse2.os)
+ .data          0x0000000000000f78        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(stpcpy-ssse3.os)
+ .data          0x0000000000000f78        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(stpcpy-sse2-unaligned.os)
+ .data          0x0000000000000f78        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strchr-sse2-no-bsf.os)
+ .data          0x0000000000000f78        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memcmp-ssse3.os)
+ .data          0x0000000000000f78        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strcspn-sse2.os)
+ .data          0x0000000000000f78        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strcspn-c.os)
+ .data          0x0000000000000f78        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(varshift.os)
+ .data          0x0000000000000f78        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memset-avx512-no-vzeroupper.os)
+ .data          0x0000000000000f78        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memmove-sse2-unaligned-erms.os)
+ .data          0x0000000000000f78        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memmove-avx-unaligned-erms.os)
+ .data          0x0000000000000f78        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memmove-avx512-unaligned-erms.os)
+ .data          0x0000000000000f78        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memset-sse2-unaligned-erms.os)
+ .data          0x0000000000000f78        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memset-avx2-unaligned-erms.os)
+ .data          0x0000000000000f78        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memset-avx512-unaligned-erms.os)
+ .data          0x0000000000000f78       0x40 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(cacheinfo.os)
+                0x0000000000000f78                __x86_raw_shared_cache_size
+                0x0000000000000f80                __x86_raw_shared_cache_size_half
+                0x0000000000000f88                __x86_shared_cache_size
+                0x0000000000000f90                __x86_shared_cache_size_half
+                0x0000000000000f98                __x86_raw_data_cache_size
+                0x0000000000000fa0                __x86_raw_data_cache_size_half
+                0x0000000000000fa8                __x86_data_cache_size
+                0x0000000000000fb0                __x86_data_cache_size_half
+ .data          0x0000000000000fb8        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(closedir.os)
+ .data          0x0000000000000fb8        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(readdir.os)
+ .data          0x0000000000000fb8        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(rewinddir.os)
+ .data          0x0000000000000fb8        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(getdents.os)
+ .data          0x0000000000000fb8        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(fdopendir.os)
+ .data          0x0000000000000fb8        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(uname.os)
+ .data          0x0000000000000fb8        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(_exit.os)
+ .data          0x0000000000000fb8        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(getpid.os)
+ .data          0x0000000000000fb8        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(environ.os)
+ .data          0x0000000000000fb8        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(xstat.os)
+ .data          0x0000000000000fb8        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(fxstat.os)
+ .data          0x0000000000000fb8        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(lxstat.os)
+ .data          0x0000000000000fb8        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(open64.os)
+ .data          0x0000000000000fb8        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(openat64.os)
+ .data          0x0000000000000fb8        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(read.os)
+ .data          0x0000000000000fb8        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(write.os)
+ .data          0x0000000000000fb8        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(lseek64.os)
+ .data          0x0000000000000fb8        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(access.os)
+ .data          0x0000000000000fb8        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(fcntl.os)
+ .data          0x0000000000000fb8        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(close.os)
+ .data          0x0000000000000fb8        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(mmap64.os)
+ .data          0x0000000000000fb8        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(munmap.os)
+ .data          0x0000000000000fb8        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(mprotect.os)
+ .data          0x0000000000000fb8        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(profil.os)
+ .data          0x0000000000000fb8        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(prof-freq.os)
+ .data          0x0000000000000fb8        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(libc-lowlevellock.os)
+ .data          0x0000000000000fb8        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(libc-cancellation.os)
+ .data          0x0000000000000fb8        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(libc_multiple_threads.os)
+ .data          0x0000000000000fb8        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(dl-addr-obj.os)
+ .data          0x0000000000000fb8        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(sigaction.os)
+ .data          0x0000000000000fb8        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strrchr.os)
+ .data          0x0000000000000fb8        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strrchr-sse2.os)
+ .data          0x0000000000000fb8        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strrchr-avx2.os)
+ .data          0x0000000000000fb8        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(setitimer.os)
+ .data          0x0000000000000fb8        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(forward.os)
+ .data          0x0000000000000fb8        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(exit.os)
+ .data          0x0000000000000fb8        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(cxa_atexit.os)
+ .data          0x0000000000000fb8        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(cxa_thread_atexit_impl.os)
+
+.data.rel.ro    0x0000000000000000      0x7e4
+ .data.rel.ro   0x0000000000000000      0x7e4 /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os
+                0x00000000000000b0                __pointer_chk_guard_local
+                0x00000000000000b8                _dl_skip_args
+                0x00000000000000c0                __GI__dl_argv
+                0x00000000000000c0                _dl_argv
+                0x00000000000000c8                _dl_argc
+                0x00000000000000e0                _rtld_global_ro
+                0x00000000000000e0                _rtld_local_ro
+                0x00000000000002e0                __stack_prot
+                0x00000000000007d0                _dl_random
+                0x00000000000007d8                __libc_stack_end
+                0x00000000000007d8                __GI___libc_stack_end
+                0x00000000000007e0                __GI___libc_enable_secure
+                0x00000000000007e0                __libc_enable_secure
+
+.init_array     0x0000000000000000        0x8
+ .init_array    0x0000000000000000        0x8 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(cacheinfo.os)
+
+.data.rel.local
+                0x0000000000000000        0x8
+ .data.rel.local
+                0x0000000000000000        0x8 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(cxa_atexit.os)
+                0x0000000000000000                __exit_funcs
+
+.data1
+ *(.data1)
+
+.bss            0x0000000000000000      0x630
+ *(.bss)
+ .bss           0x0000000000000000      0x118 /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os
+                0x00000000000000e0                __libc_multiple_libcs
+                0x0000000000000110                __curbrk
+ .bss           0x0000000000000118        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(check_fds.os)
+ .bss           0x0000000000000118        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(errno.os)
+ .bss           0x0000000000000118        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(setjmp.os)
+ .bss           0x0000000000000118        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(__longjmp.os)
+ .bss           0x0000000000000118        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strchr.os)
+ .bss           0x0000000000000118        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strcmp.os)
+ .bss           0x0000000000000118        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strcspn.os)
+ .bss           0x0000000000000118        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strdup.os)
+ .bss           0x0000000000000118        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strlen.os)
+ .bss           0x0000000000000118        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strnlen.os)
+ .bss           0x0000000000000118        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memchr.os)
+ .bss           0x0000000000000118        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memcmp.os)
+ .bss           0x0000000000000118        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memmove.os)
+ .bss           0x0000000000000118        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memset.os)
+ .bss           0x0000000000000118        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(mempcpy.os)
+ .bss           0x0000000000000118        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(stpcpy.os)
+ .bss           0x0000000000000118        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memcpy.os)
+ .bss           0x0000000000000118        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(rawmemchr.os)
+ .bss           0x0000000000000118        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(basename.os)
+ .bss           0x0000000000000118        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strcmp-sse2.os)
+ .bss           0x0000000000000118        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strcmp-sse2-unaligned.os)
+ .bss           0x0000000000000118        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strcmp-ssse3.os)
+ .bss           0x0000000000000118        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memchr-sse2.os)
+ .bss           0x0000000000000118        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(rawmemchr-sse2.os)
+ .bss           0x0000000000000118        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memchr-avx2.os)
+ .bss           0x0000000000000118        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(rawmemchr-avx2.os)
+ .bss           0x0000000000000118        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memcmp-sse2.os)
+ .bss           0x0000000000000118        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memcmp-avx2-movbe.os)
+ .bss           0x0000000000000118        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memcmp-sse4.os)
+ .bss           0x0000000000000118        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memcpy-ssse3.os)
+ .bss           0x0000000000000118        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memmove-ssse3.os)
+ .bss           0x0000000000000118        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memcpy-ssse3-back.os)
+ .bss           0x0000000000000118        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memmove-ssse3-back.os)
+ .bss           0x0000000000000118        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memmove-avx512-no-vzeroupper.os)
+ .bss           0x0000000000000118        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strchr-sse2.os)
+ .bss           0x0000000000000118        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strchr-avx2.os)
+ .bss           0x0000000000000118        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strlen-sse2.os)
+ .bss           0x0000000000000118        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strnlen-sse2.os)
+ .bss           0x0000000000000118        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strlen-avx2.os)
+ .bss           0x0000000000000118        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strnlen-avx2.os)
+ .bss           0x0000000000000118        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(stpcpy-sse2.os)
+ .bss           0x0000000000000118        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(stpcpy-ssse3.os)
+ .bss           0x0000000000000118        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(stpcpy-sse2-unaligned.os)
+ .bss           0x0000000000000118        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strchr-sse2-no-bsf.os)
+ .bss           0x0000000000000118        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memcmp-ssse3.os)
+ .bss           0x0000000000000118        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strcspn-sse2.os)
+ .bss           0x0000000000000118        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strcspn-c.os)
+ .bss           0x0000000000000118        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(varshift.os)
+ .bss           0x0000000000000118        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memset-avx512-no-vzeroupper.os)
+ .bss           0x0000000000000118        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memmove-sse2-unaligned-erms.os)
+ .bss           0x0000000000000118        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memmove-avx-unaligned-erms.os)
+ .bss           0x0000000000000118        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memmove-avx512-unaligned-erms.os)
+ .bss           0x0000000000000118        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memset-sse2-unaligned-erms.os)
+ .bss           0x0000000000000118        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memset-avx2-unaligned-erms.os)
+ .bss           0x0000000000000118        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memset-avx512-unaligned-erms.os)
+ .bss           0x0000000000000118        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(cacheinfo.os)
+ .bss           0x0000000000000118        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(closedir.os)
+ .bss           0x0000000000000118        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(readdir.os)
+ .bss           0x0000000000000118        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(rewinddir.os)
+ .bss           0x0000000000000118        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(getdents.os)
+ .bss           0x0000000000000118        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(fdopendir.os)
+ .bss           0x0000000000000118        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(uname.os)
+ .bss           0x0000000000000118        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(_exit.os)
+ .bss           0x0000000000000118        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(getpid.os)
+ .bss           0x0000000000000118        0x8 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(environ.os)
+                0x0000000000000118                _environ
+                0x0000000000000118                __environ
+                0x0000000000000118                environ
+ .bss           0x0000000000000120        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(xstat.os)
+ .bss           0x0000000000000120        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(fxstat.os)
+ .bss           0x0000000000000120        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(lxstat.os)
+ .bss           0x0000000000000120        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(open64.os)
+ .bss           0x0000000000000120        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(openat64.os)
+ .bss           0x0000000000000120        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(read.os)
+ .bss           0x0000000000000120        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(write.os)
+ .bss           0x0000000000000120        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(lseek64.os)
+ .bss           0x0000000000000120        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(access.os)
+ .bss           0x0000000000000120        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(fcntl.os)
+ .bss           0x0000000000000120        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(close.os)
+ .bss           0x0000000000000120        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(mmap64.os)
+ .bss           0x0000000000000120        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(munmap.os)
+ .bss           0x0000000000000120        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(mprotect.os)
+ .bss           0x0000000000000120       0xe0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(profil.os)
+ .bss           0x0000000000000200        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(prof-freq.os)
+ .bss           0x0000000000000200        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(libc-lowlevellock.os)
+ .bss           0x0000000000000200        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(libc-cancellation.os)
+ .bss           0x0000000000000200        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(libc_multiple_threads.os)
+ .bss           0x0000000000000200        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(dl-addr-obj.os)
+ .bss           0x0000000000000200        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(sigaction.os)
+ .bss           0x0000000000000200        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strrchr.os)
+ .bss           0x0000000000000200        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strrchr-sse2.os)
+ .bss           0x0000000000000200        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strrchr-avx2.os)
+ .bss           0x0000000000000200        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(setitimer.os)
+ .bss           0x0000000000000200        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(forward.os)
+ .bss           0x0000000000000200        0x1 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(exit.os)
+                0x0000000000000200                __exit_funcs_done
+ *fill*         0x0000000000000201       0x1f 
+ .bss           0x0000000000000220      0x410 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(cxa_atexit.os)
+ .bss           0x0000000000000630        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(cxa_thread_atexit_impl.os)
+ *(COMMON)
+ COMMON         0x0000000000000630        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os
+ COMMON         0x0000000000000630        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(cacheinfo.os)
+ COMMON         0x0000000000000630        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(libc_multiple_threads.os)
+ COMMON         0x0000000000000630        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(forward.os)
+ COMMON         0x0000000000000630        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(cxa_atexit.os)
+
+.lbss
+ *(.dynlbss)
+ *(.lbss)
+ *(LARGE_COMMON)
+
+.lrodata
+ *(.lrodata)
+
+.ldata
+ *(.ldata)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000      0xe46
+ *(.comment)
+ .comment       0x0000000000000000      0x63c /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os
+ .comment       0x000000000000063c       0x2a /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(check_fds.os)
+ .comment       0x0000000000000666       0x2a /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(errno.os)
+ .comment       0x0000000000000690       0x2a /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strchr.os)
+ .comment       0x00000000000006ba       0x2a /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strcmp.os)
+ .comment       0x00000000000006e4       0x2a /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strcspn.os)
+ .comment       0x000000000000070e       0x2a /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strdup.os)
+ .comment       0x0000000000000738       0x2a /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strlen.os)
+ .comment       0x0000000000000762       0x2a /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strnlen.os)
+ .comment       0x000000000000078c       0x2a /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memchr.os)
+ .comment       0x00000000000007b6       0x2a /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memcmp.os)
+ .comment       0x00000000000007e0       0x2a /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memmove.os)
+ .comment       0x000000000000080a       0x2a /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memset.os)
+ .comment       0x0000000000000834       0x2a /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(mempcpy.os)
+ .comment       0x000000000000085e       0x2a /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(stpcpy.os)
+ .comment       0x0000000000000888       0x2a /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memcpy.os)
+ .comment       0x00000000000008b2       0x2a /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(rawmemchr.os)
+ .comment       0x00000000000008dc       0x2a /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(basename.os)
+ .comment       0x0000000000000906       0x2a /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strcspn-c.os)
+ .comment       0x0000000000000930       0x2a /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(varshift.os)
+ .comment       0x000000000000095a       0x2a /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(cacheinfo.os)
+ .comment       0x0000000000000984       0x2a /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(closedir.os)
+ .comment       0x00000000000009ae       0x2a /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(readdir.os)
+ .comment       0x00000000000009d8       0x2a /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(rewinddir.os)
+ .comment       0x0000000000000a02       0x2a /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(getdents.os)
+ .comment       0x0000000000000a2c       0x2a /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(fdopendir.os)
+ .comment       0x0000000000000a56       0x2a /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(_exit.os)
+ .comment       0x0000000000000a80       0x2a /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(environ.os)
+ .comment       0x0000000000000aaa       0x2a /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(xstat.os)
+ .comment       0x0000000000000ad4       0x2a /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(fxstat.os)
+ .comment       0x0000000000000afe       0x2a /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(lxstat.os)
+ .comment       0x0000000000000b28       0x2a /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(open64.os)
+ .comment       0x0000000000000b52       0x2a /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(openat64.os)
+ .comment       0x0000000000000b7c       0x2a /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(read.os)
+ .comment       0x0000000000000ba6       0x2a /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(write.os)
+ .comment       0x0000000000000bd0       0x2a /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(lseek64.os)
+ .comment       0x0000000000000bfa       0x2a /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(access.os)
+ .comment       0x0000000000000c24       0x2a /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(fcntl.os)
+ .comment       0x0000000000000c4e       0x2a /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(close.os)
+ .comment       0x0000000000000c78       0x2a /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(mmap64.os)
+ .comment       0x0000000000000ca2       0x2a /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(profil.os)
+ .comment       0x0000000000000ccc       0x2a /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(prof-freq.os)
+ .comment       0x0000000000000cf6       0x2a /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(libc_multiple_threads.os)
+ .comment       0x0000000000000d20       0x2a /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(dl-addr-obj.os)
+ .comment       0x0000000000000d4a       0x2a /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(sigaction.os)
+ .comment       0x0000000000000d74       0x2a /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strrchr.os)
+ .comment       0x0000000000000d9e       0x2a /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(forward.os)
+ .comment       0x0000000000000dc8       0x2a /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(exit.os)
+ .comment       0x0000000000000df2       0x2a /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(cxa_atexit.os)
+ .comment       0x0000000000000e1c       0x2a /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(cxa_thread_atexit_impl.os)
+
+.note.GNU-stack
+                0x0000000000000000        0x0
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(check_fds.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(errno.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(setjmp.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(__longjmp.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strchr.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strcmp.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strcspn.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strdup.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strlen.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strnlen.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memchr.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memcmp.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memmove.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memset.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(mempcpy.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(stpcpy.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memcpy.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(rawmemchr.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(basename.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strcmp-sse2.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strcmp-sse2-unaligned.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strcmp-ssse3.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memchr-sse2.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(rawmemchr-sse2.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memchr-avx2.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(rawmemchr-avx2.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memcmp-sse2.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memcmp-avx2-movbe.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memcmp-sse4.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memcpy-ssse3.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memmove-ssse3.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memcpy-ssse3-back.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memmove-ssse3-back.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memmove-avx512-no-vzeroupper.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strchr-sse2.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strchr-avx2.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strlen-sse2.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strnlen-sse2.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strlen-avx2.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strnlen-avx2.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(stpcpy-sse2.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(stpcpy-ssse3.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(stpcpy-sse2-unaligned.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strchr-sse2-no-bsf.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memcmp-ssse3.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strcspn-sse2.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strcspn-c.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(varshift.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memset-avx512-no-vzeroupper.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memmove-sse2-unaligned-erms.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memmove-avx-unaligned-erms.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memmove-avx512-unaligned-erms.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memset-sse2-unaligned-erms.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memset-avx2-unaligned-erms.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memset-avx512-unaligned-erms.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(cacheinfo.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(closedir.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(readdir.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(rewinddir.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(getdents.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(fdopendir.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(uname.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(_exit.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(getpid.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(environ.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(xstat.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(fxstat.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(lxstat.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(open64.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(openat64.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(read.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(write.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(lseek64.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(access.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(fcntl.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(close.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(mmap64.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(munmap.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(mprotect.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(profil.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(prof-freq.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(libc-lowlevellock.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(libc-cancellation.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(libc_multiple_threads.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(dl-addr-obj.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(sigaction.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strrchr.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strrchr-sse2.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strrchr-avx2.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(setitimer.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(forward.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(exit.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(cxa_atexit.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(cxa_thread_atexit_impl.os)
+
+.gnu.warning.llseek
+                0x0000000000000000       0x3f
+ .gnu.warning.llseek
+                0x0000000000000000       0x3f /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(lseek64.os)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x0000000000000000     0x19b0
+ *(.debug_aranges)
+ .debug_aranges
+                0x0000000000000000      0x7d0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os
+ .debug_aranges
+                0x00000000000007d0       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(check_fds.os)
+ .debug_aranges
+                0x0000000000000800       0x20 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(errno.os)
+ .debug_aranges
+                0x0000000000000820       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(setjmp.os)
+ .debug_aranges
+                0x0000000000000850       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(__longjmp.os)
+ .debug_aranges
+                0x0000000000000880       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strchr.os)
+ .debug_aranges
+                0x00000000000008b0       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strcmp.os)
+ .debug_aranges
+                0x00000000000008e0       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strcspn.os)
+ .debug_aranges
+                0x0000000000000910       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strdup.os)
+ .debug_aranges
+                0x0000000000000940       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strlen.os)
+ .debug_aranges
+                0x0000000000000970       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strnlen.os)
+ .debug_aranges
+                0x00000000000009a0       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memchr.os)
+ .debug_aranges
+                0x00000000000009d0       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memcmp.os)
+ .debug_aranges
+                0x0000000000000a00       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memmove.os)
+ .debug_aranges
+                0x0000000000000a30       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memset.os)
+ .debug_aranges
+                0x0000000000000a60       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(mempcpy.os)
+ .debug_aranges
+                0x0000000000000a90       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(stpcpy.os)
+ .debug_aranges
+                0x0000000000000ac0       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memcpy.os)
+ .debug_aranges
+                0x0000000000000af0       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(rawmemchr.os)
+ .debug_aranges
+                0x0000000000000b20       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(basename.os)
+ .debug_aranges
+                0x0000000000000b50       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strcmp-sse2.os)
+ .debug_aranges
+                0x0000000000000b80       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strcmp-sse2-unaligned.os)
+ .debug_aranges
+                0x0000000000000bb0       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strcmp-ssse3.os)
+ .debug_aranges
+                0x0000000000000be0       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memchr-sse2.os)
+ .debug_aranges
+                0x0000000000000c10       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(rawmemchr-sse2.os)
+ .debug_aranges
+                0x0000000000000c40       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memchr-avx2.os)
+ .debug_aranges
+                0x0000000000000c70       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(rawmemchr-avx2.os)
+ .debug_aranges
+                0x0000000000000ca0       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memcmp-sse2.os)
+ .debug_aranges
+                0x0000000000000cd0       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memcmp-avx2-movbe.os)
+ .debug_aranges
+                0x0000000000000d00       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memcmp-sse4.os)
+ .debug_aranges
+                0x0000000000000d30       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memcpy-ssse3.os)
+ .debug_aranges
+                0x0000000000000d60       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memmove-ssse3.os)
+ .debug_aranges
+                0x0000000000000d90       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memcpy-ssse3-back.os)
+ .debug_aranges
+                0x0000000000000dc0       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memmove-ssse3-back.os)
+ .debug_aranges
+                0x0000000000000df0       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memmove-avx512-no-vzeroupper.os)
+ .debug_aranges
+                0x0000000000000e20       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strchr-sse2.os)
+ .debug_aranges
+                0x0000000000000e50       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strchr-avx2.os)
+ .debug_aranges
+                0x0000000000000e80       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strlen-sse2.os)
+ .debug_aranges
+                0x0000000000000eb0       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strnlen-sse2.os)
+ .debug_aranges
+                0x0000000000000ee0       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strlen-avx2.os)
+ .debug_aranges
+                0x0000000000000f10       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strnlen-avx2.os)
+ .debug_aranges
+                0x0000000000000f40       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(stpcpy-sse2.os)
+ .debug_aranges
+                0x0000000000000f70       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(stpcpy-ssse3.os)
+ .debug_aranges
+                0x0000000000000fa0       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(stpcpy-sse2-unaligned.os)
+ .debug_aranges
+                0x0000000000000fd0       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strchr-sse2-no-bsf.os)
+ .debug_aranges
+                0x0000000000001000       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memcmp-ssse3.os)
+ .debug_aranges
+                0x0000000000001030       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strcspn-sse2.os)
+ .debug_aranges
+                0x0000000000001060       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strcspn-c.os)
+ .debug_aranges
+                0x0000000000001090       0x20 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(varshift.os)
+ .debug_aranges
+                0x00000000000010b0       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memset-avx512-no-vzeroupper.os)
+ .debug_aranges
+                0x00000000000010e0       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memmove-sse2-unaligned-erms.os)
+ .debug_aranges
+                0x0000000000001110       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memmove-avx-unaligned-erms.os)
+ .debug_aranges
+                0x0000000000001140       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memmove-avx512-unaligned-erms.os)
+ .debug_aranges
+                0x0000000000001170       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memset-sse2-unaligned-erms.os)
+ .debug_aranges
+                0x00000000000011a0       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memset-avx2-unaligned-erms.os)
+ .debug_aranges
+                0x00000000000011d0       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memset-avx512-unaligned-erms.os)
+ .debug_aranges
+                0x0000000000001200       0x40 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(cacheinfo.os)
+ .debug_aranges
+                0x0000000000001240       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(closedir.os)
+ .debug_aranges
+                0x0000000000001270       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(readdir.os)
+ .debug_aranges
+                0x00000000000012a0       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(rewinddir.os)
+ .debug_aranges
+                0x00000000000012d0       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(getdents.os)
+ .debug_aranges
+                0x0000000000001300       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(fdopendir.os)
+ .debug_aranges
+                0x0000000000001330       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(uname.os)
+ .debug_aranges
+                0x0000000000001360       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(_exit.os)
+ .debug_aranges
+                0x0000000000001390       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(getpid.os)
+ .debug_aranges
+                0x00000000000013c0       0x20 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(environ.os)
+ .debug_aranges
+                0x00000000000013e0       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(xstat.os)
+ .debug_aranges
+                0x0000000000001410       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(fxstat.os)
+ .debug_aranges
+                0x0000000000001440       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(lxstat.os)
+ .debug_aranges
+                0x0000000000001470       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(open64.os)
+ .debug_aranges
+                0x00000000000014a0       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(openat64.os)
+ .debug_aranges
+                0x00000000000014d0       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(read.os)
+ .debug_aranges
+                0x0000000000001500       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(write.os)
+ .debug_aranges
+                0x0000000000001530       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(lseek64.os)
+ .debug_aranges
+                0x0000000000001560       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(access.os)
+ .debug_aranges
+                0x0000000000001590       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(fcntl.os)
+ .debug_aranges
+                0x00000000000015c0       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(close.os)
+ .debug_aranges
+                0x00000000000015f0       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(mmap64.os)
+ .debug_aranges
+                0x0000000000001620       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(munmap.os)
+ .debug_aranges
+                0x0000000000001650       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(mprotect.os)
+ .debug_aranges
+                0x0000000000001680       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(profil.os)
+ .debug_aranges
+                0x00000000000016b0       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(prof-freq.os)
+ .debug_aranges
+                0x00000000000016e0       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(libc-lowlevellock.os)
+ .debug_aranges
+                0x0000000000001710       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(libc-cancellation.os)
+ .debug_aranges
+                0x0000000000001740       0x20 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(libc_multiple_threads.os)
+ .debug_aranges
+                0x0000000000001760       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(dl-addr-obj.os)
+ .debug_aranges
+                0x0000000000001790       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(sigaction.os)
+ .debug_aranges
+                0x00000000000017c0       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strrchr.os)
+ .debug_aranges
+                0x00000000000017f0       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strrchr-sse2.os)
+ .debug_aranges
+                0x0000000000001820       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strrchr-avx2.os)
+ .debug_aranges
+                0x0000000000001850       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(setitimer.os)
+ .debug_aranges
+                0x0000000000001880       0xa0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(forward.os)
+ .debug_aranges
+                0x0000000000001920       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(exit.os)
+ .debug_aranges
+                0x0000000000001950       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(cxa_atexit.os)
+ .debug_aranges
+                0x0000000000001980       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(cxa_thread_atexit_impl.os)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x0000000000000000   0x102770
+ *(.debug_info)
+ .debug_info    0x0000000000000000    0x94d71 /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os
+ .debug_info    0x0000000000094d71      0xad5 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(check_fds.os)
+ .debug_info    0x0000000000095846      0x6d1 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(errno.os)
+ .debug_info    0x0000000000095f17       0x2e /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(setjmp.os)
+ .debug_info    0x0000000000095f45       0x2e /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(__longjmp.os)
+ .debug_info    0x0000000000095f73     0x384c /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strchr.os)
+ .debug_info    0x00000000000997bf     0x3872 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strcmp.os)
+ .debug_info    0x000000000009d031     0x3872 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strcspn.os)
+ .debug_info    0x00000000000a08a3      0x217 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strdup.os)
+ .debug_info    0x00000000000a0aba     0x3847 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strlen.os)
+ .debug_info    0x00000000000a4301     0x384c /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strnlen.os)
+ .debug_info    0x00000000000a7b4d     0x3851 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memchr.os)
+ .debug_info    0x00000000000ab39e     0x3867 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memcmp.os)
+ .debug_info    0x00000000000aec05     0x3867 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memmove.os)
+ .debug_info    0x00000000000b246c     0x3867 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memset.os)
+ .debug_info    0x00000000000b5cd3     0x3871 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(mempcpy.os)
+ .debug_info    0x00000000000b9544     0x387c /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(stpcpy.os)
+ .debug_info    0x00000000000bcdc0     0x3871 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memcpy.os)
+ .debug_info    0x00000000000c0631     0x384c /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(rawmemchr.os)
+ .debug_info    0x00000000000c3e7d       0xf7 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(basename.os)
+ .debug_info    0x00000000000c3f74       0x2e /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strcmp-sse2.os)
+ .debug_info    0x00000000000c3fa2       0x2e /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strcmp-sse2-unaligned.os)
+ .debug_info    0x00000000000c3fd0       0x2e /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strcmp-ssse3.os)
+ .debug_info    0x00000000000c3ffe       0x2e /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memchr-sse2.os)
+ .debug_info    0x00000000000c402c       0x2e /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(rawmemchr-sse2.os)
+ .debug_info    0x00000000000c405a       0x2e /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memchr-avx2.os)
+ .debug_info    0x00000000000c4088       0x2e /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(rawmemchr-avx2.os)
+ .debug_info    0x00000000000c40b6       0x2e /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memcmp-sse2.os)
+ .debug_info    0x00000000000c40e4       0x2e /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memcmp-avx2-movbe.os)
+ .debug_info    0x00000000000c4112       0x2e /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memcmp-sse4.os)
+ .debug_info    0x00000000000c4140       0x2e /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memcpy-ssse3.os)
+ .debug_info    0x00000000000c416e       0x2e /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memmove-ssse3.os)
+ .debug_info    0x00000000000c419c       0x2e /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memcpy-ssse3-back.os)
+ .debug_info    0x00000000000c41ca       0x2e /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memmove-ssse3-back.os)
+ .debug_info    0x00000000000c41f8       0x2e /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memmove-avx512-no-vzeroupper.os)
+ .debug_info    0x00000000000c4226       0x2e /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strchr-sse2.os)
+ .debug_info    0x00000000000c4254       0x2e /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strchr-avx2.os)
+ .debug_info    0x00000000000c4282       0x2e /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strlen-sse2.os)
+ .debug_info    0x00000000000c42b0       0x2e /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strnlen-sse2.os)
+ .debug_info    0x00000000000c42de       0x2e /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strlen-avx2.os)
+ .debug_info    0x00000000000c430c       0x2e /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strnlen-avx2.os)
+ .debug_info    0x00000000000c433a       0x2e /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(stpcpy-sse2.os)
+ .debug_info    0x00000000000c4368       0x2e /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(stpcpy-ssse3.os)
+ .debug_info    0x00000000000c4396       0x2e /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(stpcpy-sse2-unaligned.os)
+ .debug_info    0x00000000000c43c4       0x2e /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strchr-sse2-no-bsf.os)
+ .debug_info    0x00000000000c43f2       0x2e /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memcmp-ssse3.os)
+ .debug_info    0x00000000000c4420       0x2e /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strcspn-sse2.os)
+ .debug_info    0x00000000000c444e      0x6e4 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strcspn-c.os)
+ .debug_info    0x00000000000c4b32      0x183 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(varshift.os)
+ .debug_info    0x00000000000c4cb5       0x2e /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memset-avx512-no-vzeroupper.os)
+ .debug_info    0x00000000000c4ce3       0x2e /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memmove-sse2-unaligned-erms.os)
+ .debug_info    0x00000000000c4d11       0x2e /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memmove-avx-unaligned-erms.os)
+ .debug_info    0x00000000000c4d3f       0x2e /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memmove-avx512-unaligned-erms.os)
+ .debug_info    0x00000000000c4d6d       0x2e /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memset-sse2-unaligned-erms.os)
+ .debug_info    0x00000000000c4d9b       0x2e /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memset-avx2-unaligned-erms.os)
+ .debug_info    0x00000000000c4dc9       0x2e /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memset-avx512-unaligned-erms.os)
+ .debug_info    0x00000000000c4df7     0x4923 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(cacheinfo.os)
+ .debug_info    0x00000000000c971a     0x1dc6 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(closedir.os)
+ .debug_info    0x00000000000cb4e0     0x1e9e /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(readdir.os)
+ .debug_info    0x00000000000cd37e     0x1dbe /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(rewinddir.os)
+ .debug_info    0x00000000000cf13c     0x2181 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(getdents.os)
+ .debug_info    0x00000000000d12bd     0x1f45 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(fdopendir.os)
+ .debug_info    0x00000000000d3202       0x2e /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(uname.os)
+ .debug_info    0x00000000000d3230      0x7eb /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(_exit.os)
+ .debug_info    0x00000000000d3a1b       0x2e /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(getpid.os)
+ .debug_info    0x00000000000d3a49       0xf4 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(environ.os)
+ .debug_info    0x00000000000d3b3d      0x8fa /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(xstat.os)
+ .debug_info    0x00000000000d4437      0x8f9 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(fxstat.os)
+ .debug_info    0x00000000000d4d30      0x8fa /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(lxstat.os)
+ .debug_info    0x00000000000d562a     0x21f0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(open64.os)
+ .debug_info    0x00000000000d781a     0x221e /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(openat64.os)
+ .debug_info    0x00000000000d9a38     0x21c1 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(read.os)
+ .debug_info    0x00000000000dbbf9     0x21c1 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(write.os)
+ .debug_info    0x00000000000dddba      0x830 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(lseek64.os)
+ .debug_info    0x00000000000de5ea     0x1ef2 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(access.os)
+ .debug_info    0x00000000000e04dc     0x236f /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(fcntl.os)
+ .debug_info    0x00000000000e284b     0x1fff /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(close.os)
+ .debug_info    0x00000000000e484a     0x3bac /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(mmap64.os)
+ .debug_info    0x00000000000e83f6       0x2e /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(munmap.os)
+ .debug_info    0x00000000000e8424       0x2e /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(mprotect.os)
+ .debug_info    0x00000000000e8452     0x1154 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(profil.os)
+ .debug_info    0x00000000000e95a6     0x37db /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(prof-freq.os)
+ .debug_info    0x00000000000ecd81       0x2e /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(libc-lowlevellock.os)
+ .debug_info    0x00000000000ecdaf       0x2e /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(libc-cancellation.os)
+ .debug_info    0x00000000000ecddd     0x1e23 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(libc_multiple_threads.os)
+ .debug_info    0x00000000000eec00     0x281f /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(dl-addr-obj.os)
+ .debug_info    0x00000000000f141f     0x2300 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(sigaction.os)
+ .debug_info    0x00000000000f371f     0x384c /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strrchr.os)
+ .debug_info    0x00000000000f6f6b       0x2e /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strrchr-sse2.os)
+ .debug_info    0x00000000000f6f99       0x2e /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strrchr-avx2.os)
+ .debug_info    0x00000000000f6fc7       0x2e /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(setitimer.os)
+ .debug_info    0x00000000000f6ff5     0x33de /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(forward.os)
+ .debug_info    0x00000000000fa3d3     0x2974 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(exit.os)
+ .debug_info    0x00000000000fcd47     0x205e /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(cxa_atexit.os)
+ .debug_info    0x00000000000feda5     0x39cb /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(cxa_thread_atexit_impl.os)
+
+.debug_abbrev   0x0000000000000000    0x1605d
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000000000000     0xbce5 /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os
+ .debug_abbrev  0x000000000000bce5      0x23d /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(check_fds.os)
+ .debug_abbrev  0x000000000000bf22      0x149 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(errno.os)
+ .debug_abbrev  0x000000000000c06b       0x14 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(setjmp.os)
+ .debug_abbrev  0x000000000000c07f       0x14 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(__longjmp.os)
+ .debug_abbrev  0x000000000000c093      0x3e6 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strchr.os)
+ .debug_abbrev  0x000000000000c479      0x3e6 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strcmp.os)
+ .debug_abbrev  0x000000000000c85f      0x3e6 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strcspn.os)
+ .debug_abbrev  0x000000000000cc45      0x13f /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strdup.os)
+ .debug_abbrev  0x000000000000cd84      0x3e6 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strlen.os)
+ .debug_abbrev  0x000000000000d16a      0x3e6 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strnlen.os)
+ .debug_abbrev  0x000000000000d550      0x3e6 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memchr.os)
+ .debug_abbrev  0x000000000000d936      0x3e4 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memcmp.os)
+ .debug_abbrev  0x000000000000dd1a      0x3e4 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memmove.os)
+ .debug_abbrev  0x000000000000e0fe      0x3e4 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memset.os)
+ .debug_abbrev  0x000000000000e4e2      0x3e4 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(mempcpy.os)
+ .debug_abbrev  0x000000000000e8c6      0x3e6 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(stpcpy.os)
+ .debug_abbrev  0x000000000000ecac      0x3e4 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memcpy.os)
+ .debug_abbrev  0x000000000000f090      0x3e6 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(rawmemchr.os)
+ .debug_abbrev  0x000000000000f476       0xa0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(basename.os)
+ .debug_abbrev  0x000000000000f516       0x14 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strcmp-sse2.os)
+ .debug_abbrev  0x000000000000f52a       0x14 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strcmp-sse2-unaligned.os)
+ .debug_abbrev  0x000000000000f53e       0x14 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strcmp-ssse3.os)
+ .debug_abbrev  0x000000000000f552       0x14 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memchr-sse2.os)
+ .debug_abbrev  0x000000000000f566       0x14 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(rawmemchr-sse2.os)
+ .debug_abbrev  0x000000000000f57a       0x14 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memchr-avx2.os)
+ .debug_abbrev  0x000000000000f58e       0x14 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(rawmemchr-avx2.os)
+ .debug_abbrev  0x000000000000f5a2       0x14 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memcmp-sse2.os)
+ .debug_abbrev  0x000000000000f5b6       0x14 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memcmp-avx2-movbe.os)
+ .debug_abbrev  0x000000000000f5ca       0x14 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memcmp-sse4.os)
+ .debug_abbrev  0x000000000000f5de       0x14 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memcpy-ssse3.os)
+ .debug_abbrev  0x000000000000f5f2       0x14 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memmove-ssse3.os)
+ .debug_abbrev  0x000000000000f606       0x14 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memcpy-ssse3-back.os)
+ .debug_abbrev  0x000000000000f61a       0x14 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memmove-ssse3-back.os)
+ .debug_abbrev  0x000000000000f62e       0x14 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memmove-avx512-no-vzeroupper.os)
+ .debug_abbrev  0x000000000000f642       0x14 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strchr-sse2.os)
+ .debug_abbrev  0x000000000000f656       0x14 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strchr-avx2.os)
+ .debug_abbrev  0x000000000000f66a       0x14 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strlen-sse2.os)
+ .debug_abbrev  0x000000000000f67e       0x14 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strnlen-sse2.os)
+ .debug_abbrev  0x000000000000f692       0x14 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strlen-avx2.os)
+ .debug_abbrev  0x000000000000f6a6       0x14 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strnlen-avx2.os)
+ .debug_abbrev  0x000000000000f6ba       0x14 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(stpcpy-sse2.os)
+ .debug_abbrev  0x000000000000f6ce       0x14 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(stpcpy-ssse3.os)
+ .debug_abbrev  0x000000000000f6e2       0x14 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(stpcpy-sse2-unaligned.os)
+ .debug_abbrev  0x000000000000f6f6       0x14 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strchr-sse2-no-bsf.os)
+ .debug_abbrev  0x000000000000f70a       0x14 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memcmp-ssse3.os)
+ .debug_abbrev  0x000000000000f71e       0x14 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strcspn-sse2.os)
+ .debug_abbrev  0x000000000000f732      0x219 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strcspn-c.os)
+ .debug_abbrev  0x000000000000f94b       0xba /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(varshift.os)
+ .debug_abbrev  0x000000000000fa05       0x14 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memset-avx512-no-vzeroupper.os)
+ .debug_abbrev  0x000000000000fa19       0x14 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memmove-sse2-unaligned-erms.os)
+ .debug_abbrev  0x000000000000fa2d       0x14 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memmove-avx-unaligned-erms.os)
+ .debug_abbrev  0x000000000000fa41       0x14 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memmove-avx512-unaligned-erms.os)
+ .debug_abbrev  0x000000000000fa55       0x14 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memset-sse2-unaligned-erms.os)
+ .debug_abbrev  0x000000000000fa69       0x14 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memset-avx2-unaligned-erms.os)
+ .debug_abbrev  0x000000000000fa7d       0x14 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memset-avx512-unaligned-erms.os)
+ .debug_abbrev  0x000000000000fa91      0x5d2 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(cacheinfo.os)
+ .debug_abbrev  0x0000000000010063      0x376 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(closedir.os)
+ .debug_abbrev  0x00000000000103d9      0x388 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(readdir.os)
+ .debug_abbrev  0x0000000000010761      0x367 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(rewinddir.os)
+ .debug_abbrev  0x0000000000010ac8      0x3c7 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(getdents.os)
+ .debug_abbrev  0x0000000000010e8f      0x382 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(fdopendir.os)
+ .debug_abbrev  0x0000000000011211       0x14 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(uname.os)
+ .debug_abbrev  0x0000000000011225      0x1a3 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(_exit.os)
+ .debug_abbrev  0x00000000000113c8       0x14 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(getpid.os)
+ .debug_abbrev  0x00000000000113dc       0x78 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(environ.os)
+ .debug_abbrev  0x0000000000011454      0x19b /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(xstat.os)
+ .debug_abbrev  0x00000000000115ef      0x19b /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(fxstat.os)
+ .debug_abbrev  0x000000000001178a      0x19b /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(lxstat.os)
+ .debug_abbrev  0x0000000000011925      0x3ac /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(open64.os)
+ .debug_abbrev  0x0000000000011cd1      0x3d9 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(openat64.os)
+ .debug_abbrev  0x00000000000120aa      0x436 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(read.os)
+ .debug_abbrev  0x00000000000124e0      0x436 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(write.os)
+ .debug_abbrev  0x0000000000012916      0x1b5 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(lseek64.os)
+ .debug_abbrev  0x0000000000012acb      0x350 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(access.os)
+ .debug_abbrev  0x0000000000012e1b      0x441 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(fcntl.os)
+ .debug_abbrev  0x000000000001325c      0x3a2 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(close.os)
+ .debug_abbrev  0x00000000000135fe      0x43a /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(mmap64.os)
+ .debug_abbrev  0x0000000000013a38       0x14 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(munmap.os)
+ .debug_abbrev  0x0000000000013a4c       0x14 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(mprotect.os)
+ .debug_abbrev  0x0000000000013a60      0x32d /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(profil.os)
+ .debug_abbrev  0x0000000000013d8d      0x39c /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(prof-freq.os)
+ .debug_abbrev  0x0000000000014129       0x14 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(libc-lowlevellock.os)
+ .debug_abbrev  0x000000000001413d       0x14 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(libc-cancellation.os)
+ .debug_abbrev  0x0000000000014151      0x2f7 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(libc_multiple_threads.os)
+ .debug_abbrev  0x0000000000014448      0x370 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(dl-addr-obj.os)
+ .debug_abbrev  0x00000000000147b8      0x3ae /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(sigaction.os)
+ .debug_abbrev  0x0000000000014b66      0x3e6 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strrchr.os)
+ .debug_abbrev  0x0000000000014f4c       0x14 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strrchr-sse2.os)
+ .debug_abbrev  0x0000000000014f60       0x14 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strrchr-avx2.os)
+ .debug_abbrev  0x0000000000014f74       0x14 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(setitimer.os)
+ .debug_abbrev  0x0000000000014f88      0x457 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(forward.os)
+ .debug_abbrev  0x00000000000153df      0x429 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(exit.os)
+ .debug_abbrev  0x0000000000015808      0x3e8 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(cxa_atexit.os)
+ .debug_abbrev  0x0000000000015bf0      0x46d /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(cxa_thread_atexit_impl.os)
+
+.debug_line     0x0000000000000000    0x234bf
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x0000000000000000    0x113a1 /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os
+ .debug_line    0x00000000000113a1      0x2c7 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(check_fds.os)
+ .debug_line    0x0000000000011668      0x193 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(errno.os)
+ .debug_line    0x00000000000117fb       0x5e /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(setjmp.os)
+ .debug_line    0x0000000000011859       0x61 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(__longjmp.os)
+ .debug_line    0x00000000000118ba      0x4bd /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strchr.os)
+ .debug_line    0x0000000000011d77      0x4bb /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strcmp.os)
+ .debug_line    0x0000000000012232      0x4ce /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strcspn.os)
+ .debug_line    0x0000000000012700       0xbf /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strdup.os)
+ .debug_line    0x00000000000127bf      0x4cd /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strlen.os)
+ .debug_line    0x0000000000012c8c      0x4ce /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strnlen.os)
+ .debug_line    0x000000000001315a      0x4cd /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memchr.os)
+ .debug_line    0x0000000000013627      0x4dc /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memcmp.os)
+ .debug_line    0x0000000000013b03      0x4e6 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memmove.os)
+ .debug_line    0x0000000000013fe9      0x4e1 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memset.os)
+ .debug_line    0x00000000000144ca      0x4e6 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(mempcpy.os)
+ .debug_line    0x00000000000149b0      0x4d8 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(stpcpy.os)
+ .debug_line    0x0000000000014e88      0x4e5 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memcpy.os)
+ .debug_line    0x000000000001536d      0x4d0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(rawmemchr.os)
+ .debug_line    0x000000000001583d       0x5c /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(basename.os)
+ .debug_line    0x0000000000015899      0x48f /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strcmp-sse2.os)
+ .debug_line    0x0000000000015d28      0x10c /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strcmp-sse2-unaligned.os)
+ .debug_line    0x0000000000015e34      0x45f /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strcmp-ssse3.os)
+ .debug_line    0x0000000000016293      0x124 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memchr-sse2.os)
+ .debug_line    0x00000000000163b7       0xd3 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(rawmemchr-sse2.os)
+ .debug_line    0x000000000001648a      0x10c /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memchr-avx2.os)
+ .debug_line    0x0000000000016596       0xc0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(rawmemchr-avx2.os)
+ .debug_line    0x0000000000016656      0x14c /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memcmp-sse2.os)
+ .debug_line    0x00000000000167a2      0x146 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memcmp-avx2-movbe.os)
+ .debug_line    0x00000000000168e8      0x500 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memcmp-sse4.os)
+ .debug_line    0x0000000000016de8      0x947 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memcpy-ssse3.os)
+ .debug_line    0x000000000001772f      0x99b /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memmove-ssse3.os)
+ .debug_line    0x00000000000180ca      0x87d /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memcpy-ssse3-back.os)
+ .debug_line    0x0000000000018947      0x882 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memmove-ssse3-back.os)
+ .debug_line    0x00000000000191c9      0x1b2 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memmove-avx512-no-vzeroupper.os)
+ .debug_line    0x000000000001937b       0xde /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strchr-sse2.os)
+ .debug_line    0x0000000000019459       0xe0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strchr-avx2.os)
+ .debug_line    0x0000000000019539       0xa5 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strlen-sse2.os)
+ .debug_line    0x00000000000195de       0xa5 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strnlen-sse2.os)
+ .debug_line    0x0000000000019683       0xca /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strlen-avx2.os)
+ .debug_line    0x000000000001974d      0x11d /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strnlen-avx2.os)
+ .debug_line    0x000000000001986a       0x95 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(stpcpy-sse2.os)
+ .debug_line    0x00000000000198ff      0x627 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(stpcpy-ssse3.os)
+ .debug_line    0x0000000000019f26      0x1e2 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(stpcpy-sse2-unaligned.os)
+ .debug_line    0x000000000001a108      0x111 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strchr-sse2-no-bsf.os)
+ .debug_line    0x000000000001a219      0x5cd /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memcmp-ssse3.os)
+ .debug_line    0x000000000001a7e6       0x80 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strcspn-sse2.os)
+ .debug_line    0x000000000001a866      0x1fa /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strcspn-c.os)
+ .debug_line    0x000000000001aa60       0xb4 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(varshift.os)
+ .debug_line    0x000000000001ab14       0xeb /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memset-avx512-no-vzeroupper.os)
+ .debug_line    0x000000000001abff      0x166 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memmove-sse2-unaligned-erms.os)
+ .debug_line    0x000000000001ad65      0x160 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memmove-avx-unaligned-erms.os)
+ .debug_line    0x000000000001aec5      0x16e /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memmove-avx512-unaligned-erms.os)
+ .debug_line    0x000000000001b033       0xcd /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memset-sse2-unaligned-erms.os)
+ .debug_line    0x000000000001b100       0xd3 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memset-avx2-unaligned-erms.os)
+ .debug_line    0x000000000001b1d3       0xd8 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memset-avx512-unaligned-erms.os)
+ .debug_line    0x000000000001b2ab      0x7f3 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(cacheinfo.os)
+ .debug_line    0x000000000001ba9e      0x473 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(closedir.os)
+ .debug_line    0x000000000001bf11      0x48c /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(readdir.os)
+ .debug_line    0x000000000001c39d      0x427 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(rewinddir.os)
+ .debug_line    0x000000000001c7c4      0x48b /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(getdents.os)
+ .debug_line    0x000000000001cc4f      0x4a7 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(fdopendir.os)
+ .debug_line    0x000000000001d0f6       0x58 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(uname.os)
+ .debug_line    0x000000000001d14e      0x211 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(_exit.os)
+ .debug_line    0x000000000001d35f       0x57 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(getpid.os)
+ .debug_line    0x000000000001d3b6       0x75 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(environ.os)
+ .debug_line    0x000000000001d42b      0x21f /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(xstat.os)
+ .debug_line    0x000000000001d64a      0x220 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(fxstat.os)
+ .debug_line    0x000000000001d86a      0x220 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(lxstat.os)
+ .debug_line    0x000000000001da8a      0x4c5 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(open64.os)
+ .debug_line    0x000000000001df4f      0x4d1 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(openat64.os)
+ .debug_line    0x000000000001e420      0x45b /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(read.os)
+ .debug_line    0x000000000001e87b      0x45b /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(write.os)
+ .debug_line    0x000000000001ecd6      0x202 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(lseek64.os)
+ .debug_line    0x000000000001eed8      0x452 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(access.os)
+ .debug_line    0x000000000001f32a      0x4c3 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(fcntl.os)
+ .debug_line    0x000000000001f7ed      0x471 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(close.os)
+ .debug_line    0x000000000001fc5e      0x528 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(mmap64.os)
+ .debug_line    0x0000000000020186       0x58 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(munmap.os)
+ .debug_line    0x00000000000201de       0x58 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(mprotect.os)
+ .debug_line    0x0000000000020236      0x3d6 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(profil.os)
+ .debug_line    0x000000000002060c      0x4cb /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(prof-freq.os)
+ .debug_line    0x0000000000020ad7       0x81 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(libc-lowlevellock.os)
+ .debug_line    0x0000000000020b58       0x8b /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(libc-cancellation.os)
+ .debug_line    0x0000000000020be3      0x3e8 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(libc_multiple_threads.os)
+ .debug_line    0x0000000000020fcb      0x44a /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(dl-addr-obj.os)
+ .debug_line    0x0000000000021415      0x525 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(sigaction.os)
+ .debug_line    0x000000000002193a      0x4ce /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strrchr.os)
+ .debug_line    0x0000000000021e08      0x110 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strrchr-sse2.os)
+ .debug_line    0x0000000000021f18       0xd7 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strrchr-avx2.os)
+ .debug_line    0x0000000000021fef       0x58 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(setitimer.os)
+ .debug_line    0x0000000000022047      0x65b /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(forward.os)
+ .debug_line    0x00000000000226a2      0x4f8 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(exit.os)
+ .debug_line    0x0000000000022b9a      0x42f /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(cxa_atexit.os)
+ .debug_line    0x0000000000022fc9      0x4f6 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(cxa_thread_atexit_impl.os)
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str      0x0000000000000000    0xae16a
+ *(.debug_str)
+ .debug_str     0x0000000000000000    0x5e470 /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os
+ .debug_str     0x000000000005e470      0x7f8 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(check_fds.os)
+ .debug_str     0x000000000005ec68      0x5b7 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(errno.os)
+ .debug_str     0x000000000005f21f       0x57 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(setjmp.os)
+ .debug_str     0x000000000005f276       0x5a /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(__longjmp.os)
+ .debug_str     0x000000000005f2d0     0x2770 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strchr.os)
+ .debug_str     0x0000000000061a40     0x27cd /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strcmp.os)
+ .debug_str     0x000000000006420d     0x27d0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strcspn.os)
+ .debug_str     0x00000000000669dd      0x227 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strdup.os)
+ .debug_str     0x0000000000066c04     0x2770 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strlen.os)
+ .debug_str     0x0000000000069374     0x2775 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strnlen.os)
+ .debug_str     0x000000000006bae9     0x2770 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memchr.os)
+ .debug_str     0x000000000006e259     0x27cd /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memcmp.os)
+ .debug_str     0x0000000000070a26     0x27d7 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memmove.os)
+ .debug_str     0x00000000000731fd     0x27cd /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memset.os)
+ .debug_str     0x00000000000759ca     0x27d2 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(mempcpy.os)
+ .debug_str     0x000000000007819c     0x27cf /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(stpcpy.os)
+ .debug_str     0x000000000007a96b     0x27d3 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memcpy.os)
+ .debug_str     0x000000000007d13e     0x277b /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(rawmemchr.os)
+ .debug_str     0x000000000007f8b9      0x1a3 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(basename.os)
+ .debug_str     0x000000000007fa5c       0x57 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strcmp-sse2.os)
+ .debug_str     0x000000000007fab3       0x70 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strcmp-sse2-unaligned.os)
+ .debug_str     0x000000000007fb23       0x64 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strcmp-ssse3.os)
+ .debug_str     0x000000000007fb87       0x64 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memchr-sse2.os)
+ .debug_str     0x000000000007fbeb       0x67 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(rawmemchr-sse2.os)
+ .debug_str     0x000000000007fc52       0x66 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memchr-avx2.os)
+ .debug_str     0x000000000007fcb8       0x66 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(rawmemchr-avx2.os)
+ .debug_str     0x000000000007fd1e       0x57 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memcmp-sse2.os)
+ .debug_str     0x000000000007fd75       0x6c /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memcmp-avx2-movbe.os)
+ .debug_str     0x000000000007fde1       0x66 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memcmp-sse4.os)
+ .debug_str     0x000000000007fe47       0x67 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memcpy-ssse3.os)
+ .debug_str     0x000000000007feae       0x67 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memmove-ssse3.os)
+ .debug_str     0x000000000007ff15       0x6c /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memcpy-ssse3-back.os)
+ .debug_str     0x000000000007ff81       0x6c /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memmove-ssse3-back.os)
+ .debug_str     0x000000000007ffed       0x77 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memmove-avx512-no-vzeroupper.os)
+ .debug_str     0x0000000000080064       0x64 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strchr-sse2.os)
+ .debug_str     0x00000000000800c8       0x66 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strchr-avx2.os)
+ .debug_str     0x000000000008012e       0x64 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strlen-sse2.os)
+ .debug_str     0x0000000000080192       0x64 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strnlen-sse2.os)
+ .debug_str     0x00000000000801f6       0x66 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strlen-avx2.os)
+ .debug_str     0x000000000008025c       0x66 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strnlen-avx2.os)
+ .debug_str     0x00000000000802c2       0x57 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(stpcpy-sse2.os)
+ .debug_str     0x0000000000080319       0x67 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(stpcpy-ssse3.os)
+ .debug_str     0x0000000000080380       0x70 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(stpcpy-sse2-unaligned.os)
+ .debug_str     0x00000000000803f0       0x6d /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strchr-sse2-no-bsf.os)
+ .debug_str     0x000000000008045d       0x67 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memcmp-ssse3.os)
+ .debug_str     0x00000000000804c4       0x58 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strcspn-sse2.os)
+ .debug_str     0x000000000008051c      0x327 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strcspn-c.os)
+ .debug_str     0x0000000000080843      0x229 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(varshift.os)
+ .debug_str     0x0000000000080a6c       0x76 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memset-avx512-no-vzeroupper.os)
+ .debug_str     0x0000000000080ae2       0x75 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memmove-sse2-unaligned-erms.os)
+ .debug_str     0x0000000000080b57       0x75 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memmove-avx-unaligned-erms.os)
+ .debug_str     0x0000000000080bcc       0x75 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memmove-avx512-unaligned-erms.os)
+ .debug_str     0x0000000000080c41       0x74 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memset-sse2-unaligned-erms.os)
+ .debug_str     0x0000000000080cb5       0x74 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memset-avx2-unaligned-erms.os)
+ .debug_str     0x0000000000080d29       0x74 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memset-avx512-unaligned-erms.os)
+ .debug_str     0x0000000000080d9d     0x39ce /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(cacheinfo.os)
+ .debug_str     0x000000000008476b     0x16d6 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(closedir.os)
+ .debug_str     0x0000000000085e41     0x173f /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(readdir.os)
+ .debug_str     0x0000000000087580     0x16a0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(rewinddir.os)
+ .debug_str     0x0000000000088c20     0x17e4 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(getdents.os)
+ .debug_str     0x000000000008a404     0x17c2 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(fdopendir.os)
+ .debug_str     0x000000000008bbc6       0x5e /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(uname.os)
+ .debug_str     0x000000000008bc24      0x657 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(_exit.os)
+ .debug_str     0x000000000008c27b       0x5e /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(getpid.os)
+ .debug_str     0x000000000008c2d9      0x1c6 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(environ.os)
+ .debug_str     0x000000000008c49f      0x71a /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(xstat.os)
+ .debug_str     0x000000000008cbb9      0x718 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(fxstat.os)
+ .debug_str     0x000000000008d2d1      0x71d /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(lxstat.os)
+ .debug_str     0x000000000008d9ee     0x1987 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(open64.os)
+ .debug_str     0x000000000008f375     0x1975 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(openat64.os)
+ .debug_str     0x0000000000090cea     0x190a /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(read.os)
+ .debug_str     0x00000000000925f4     0x190f /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(write.os)
+ .debug_str     0x0000000000093f03      0x692 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(lseek64.os)
+ .debug_str     0x0000000000094595     0x1862 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(access.os)
+ .debug_str     0x0000000000095df7     0x19d7 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(fcntl.os)
+ .debug_str     0x00000000000977ce     0x18d1 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(close.os)
+ .debug_str     0x000000000009909f     0x2856 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(mmap64.os)
+ .debug_str     0x000000000009b8f5       0x5d /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(munmap.os)
+ .debug_str     0x000000000009b952       0x5d /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(mprotect.os)
+ .debug_str     0x000000000009b9af      0xb93 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(profil.os)
+ .debug_str     0x000000000009c542     0x2790 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(prof-freq.os)
+ .debug_str     0x000000000009ecd2       0x6b /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(libc-lowlevellock.os)
+ .debug_str     0x000000000009ed3d       0x6b /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(libc-cancellation.os)
+ .debug_str     0x000000000009eda8     0x1899 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(libc_multiple_threads.os)
+ .debug_str     0x00000000000a0641     0x1d0a /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(dl-addr-obj.os)
+ .debug_str     0x00000000000a234b     0x1a1e /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(sigaction.os)
+ .debug_str     0x00000000000a3d69     0x2773 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strrchr.os)
+ .debug_str     0x00000000000a64dc       0x65 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strrchr-sse2.os)
+ .debug_str     0x00000000000a6541       0x67 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strrchr-avx2.os)
+ .debug_str     0x00000000000a65a8       0x5d /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(setitimer.os)
+ .debug_str     0x00000000000a6605     0x1ec7 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(forward.os)
+ .debug_str     0x00000000000a84cc     0x1d44 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(exit.os)
+ .debug_str     0x00000000000aa210     0x170a /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(cxa_atexit.os)
+ .debug_str     0x00000000000ab91a     0x2850 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(cxa_thread_atexit_impl.os)
+
+.debug_loc      0x0000000000000000    0x38a3d
+ *(.debug_loc)
+ .debug_loc     0x0000000000000000    0x2fcdc /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os
+ .debug_loc     0x000000000002fcdc      0x138 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(check_fds.os)
+ .debug_loc     0x000000000002fe14      0x107 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strdup.os)
+ .debug_loc     0x000000000002ff1b       0x97 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(basename.os)
+ .debug_loc     0x000000000002ffb2      0x4fc /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strcspn-c.os)
+ .debug_loc     0x00000000000304ae     0x1cec /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(cacheinfo.os)
+ .debug_loc     0x000000000003219a       0x82 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(closedir.os)
+ .debug_loc     0x000000000003221c      0x1ba /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(readdir.os)
+ .debug_loc     0x00000000000323d6       0x4c /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(rewinddir.os)
+ .debug_loc     0x0000000000032422      0x33f /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(getdents.os)
+ .debug_loc     0x0000000000032761       0xbe /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(fdopendir.os)
+ .debug_loc     0x000000000003281f      0x148 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(_exit.os)
+ .debug_loc     0x0000000000032967      0x1de /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(xstat.os)
+ .debug_loc     0x0000000000032b45      0x1de /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(fxstat.os)
+ .debug_loc     0x0000000000032d23      0x1de /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(lxstat.os)
+ .debug_loc     0x0000000000032f01      0x89c /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(open64.os)
+ .debug_loc     0x000000000003379d      0x837 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(openat64.os)
+ .debug_loc     0x0000000000033fd4      0x64e /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(read.os)
+ .debug_loc     0x0000000000034622      0x64e /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(write.os)
+ .debug_loc     0x0000000000034c70       0xcd /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(lseek64.os)
+ .debug_loc     0x0000000000034d3d       0x5b /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(access.os)
+ .debug_loc     0x0000000000034d98      0x65e /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(fcntl.os)
+ .debug_loc     0x00000000000353f6      0x29a /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(close.os)
+ .debug_loc     0x0000000000035690      0x5a3 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(mmap64.os)
+ .debug_loc     0x0000000000035c33      0x32d /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(profil.os)
+ .debug_loc     0x0000000000035f60       0x65 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(dl-addr-obj.os)
+ .debug_loc     0x0000000000035fc5      0x35f /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(sigaction.os)
+ .debug_loc     0x0000000000036324     0x1c3d /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(forward.os)
+ .debug_loc     0x0000000000037f61      0x35b /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(exit.os)
+ .debug_loc     0x00000000000382bc      0x52b /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(cxa_atexit.os)
+ .debug_loc     0x00000000000387e7      0x256 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(cxa_thread_atexit_impl.os)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x0000000000000000     0x89a0
+ *(.debug_ranges)
+ .debug_ranges  0x0000000000000000     0x7560 /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os
+ .debug_ranges  0x0000000000007560       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memcmp.os)
+ .debug_ranges  0x0000000000007590       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memmove.os)
+ .debug_ranges  0x00000000000075c0       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memset.os)
+ .debug_ranges  0x00000000000075f0       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(mempcpy.os)
+ .debug_ranges  0x0000000000007620       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(memcpy.os)
+ .debug_ranges  0x0000000000007650      0x260 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(strcspn-c.os)
+ .debug_ranges  0x00000000000078b0      0x3a0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(cacheinfo.os)
+ .debug_ranges  0x0000000000007c50       0xd0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(readdir.os)
+ .debug_ranges  0x0000000000007d20       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(rewinddir.os)
+ .debug_ranges  0x0000000000007d50       0xb0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(getdents.os)
+ .debug_ranges  0x0000000000007e00       0x90 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(_exit.os)
+ .debug_ranges  0x0000000000007e90       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(xstat.os)
+ .debug_ranges  0x0000000000007ec0       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(fxstat.os)
+ .debug_ranges  0x0000000000007ef0       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(lxstat.os)
+ .debug_ranges  0x0000000000007f20      0x140 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(open64.os)
+ .debug_ranges  0x0000000000008060      0x140 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(openat64.os)
+ .debug_ranges  0x00000000000081a0      0x130 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(read.os)
+ .debug_ranges  0x00000000000082d0      0x130 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(write.os)
+ .debug_ranges  0x0000000000008400       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(lseek64.os)
+ .debug_ranges  0x0000000000008430       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(access.os)
+ .debug_ranges  0x0000000000008460      0x170 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(fcntl.os)
+ .debug_ranges  0x00000000000085d0      0x140 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(close.os)
+ .debug_ranges  0x0000000000008710       0x60 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(mmap64.os)
+ .debug_ranges  0x0000000000008770       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(profil.os)
+ .debug_ranges  0x00000000000087a0       0xb0 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(sigaction.os)
+ .debug_ranges  0x0000000000008850       0x90 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(forward.os)
+ .debug_ranges  0x00000000000088e0       0x90 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(exit.os)
+ .debug_ranges  0x0000000000008970       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/libc_pic.a(cxa_atexit.os)
+
+.debug_macro
+ *(.debug_macro)
+
+.debug_addr
+ *(.debug_addr)
+
+.gnu.attributes
+ *(.gnu.attributes)
+OUTPUT(/home/khsieh3/util/glibc_2.27/glibc_build/elf/librtld.map.o elf64-x86-64)

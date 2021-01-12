@@ -1,0 +1,21 @@
+/home/khsieh3/util/glibc_2.27/glibc_build/rt/clock-compat.o: \
+ clock-compat.c ../include/stdc-predef.h \
+ /home/khsieh3/util/glibc_2.27/glibc_build/libc-modules.h \
+ ../include/libc-symbols.h \
+ /home/khsieh3/util/glibc_2.27/glibc_build/config.h \
+ ../sysdeps/generic/symbol-hacks.h ../include/shlib-compat.h \
+ /home/khsieh3/util/glibc_2.27/glibc_build/abi-versions.h
+
+../include/stdc-predef.h:
+
+/home/khsieh3/util/glibc_2.27/glibc_build/libc-modules.h:
+
+../include/libc-symbols.h:
+
+/home/khsieh3/util/glibc_2.27/glibc_build/config.h:
+
+../sysdeps/generic/symbol-hacks.h:
+
+../include/shlib-compat.h:
+
+/home/khsieh3/util/glibc_2.27/glibc_build/abi-versions.h:

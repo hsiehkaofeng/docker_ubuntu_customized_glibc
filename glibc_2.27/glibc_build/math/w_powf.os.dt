@@ -1,0 +1,16 @@
+/home/khsieh3/util/glibc_2.27/glibc_build/math/w_powf.os: \
+ ../sysdeps/ieee754/flt-32/w_powf.c ../include/stdc-predef.h \
+ /home/khsieh3/util/glibc_2.27/glibc_build/libc-modules.h \
+ ../include/libc-symbols.h \
+ /home/khsieh3/util/glibc_2.27/glibc_build/config.h \
+ ../sysdeps/generic/symbol-hacks.h
+
+../include/stdc-predef.h:
+
+/home/khsieh3/util/glibc_2.27/glibc_build/libc-modules.h:
+
+../include/libc-symbols.h:
+
+/home/khsieh3/util/glibc_2.27/glibc_build/config.h:
+
+../sysdeps/generic/symbol-hacks.h:

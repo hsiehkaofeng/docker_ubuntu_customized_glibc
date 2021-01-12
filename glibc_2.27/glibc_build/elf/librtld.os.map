@@ -1,0 +1,1380 @@
+Archive member included to satisfy reference by file (symbol)
+
+/home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-check_fds.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os (__libc_check_standard_fds)
+/home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-errno.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os (rtld_errno)
+/home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-closedir.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os (__closedir)
+/home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-readdir.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os (__readdir)
+/home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-rewinddir.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os (__rewinddir)
+/home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-getdents.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-readdir.os) (__getdents)
+/home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-fdopendir.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os (__fdopendir)
+/home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os (_dl_addr_inside_object)
+/home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-profil.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os (__profil)
+/home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-prof-freq.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os (__profile_frequency)
+/home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-xstat.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os (__GI___xstat64)
+/home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-fxstat.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os (__GI___fxstat64)
+/home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-lxstat.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os (__GI___lxstat64)
+/home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-open64.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os (__open)
+/home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-openat64.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os (__openat64_nocancel)
+/home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-read.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os (__libc_read)
+/home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-write.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os (__libc_write)
+/home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-lseek64.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os (__lseek)
+/home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-access.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os (__access)
+/home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-fcntl.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-check_fds.os) (__libc_fcntl)
+/home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-close.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os (__close)
+/home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-mmap64.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os (__mmap)
+/home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-munmap.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os (__munmap)
+/home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-mprotect.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os (__mprotect)
+/home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-uname.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os (__uname)
+/home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-_exit.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os (__GI__exit)
+/home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-getpid.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os (__getpid)
+/home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-environ.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os (__environ)
+/home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-setjmp.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os (__sigsetjmp)
+/home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-__longjmp.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os (__longjmp)
+/home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-sigaction.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-profil.os) (__sigaction)
+/home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-strdup.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os (__strdup)
+/home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-basename.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os (basename)
+/home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-strcmp-sse2.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os (strcmp)
+/home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-memchr-sse2.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os (memchr)
+/home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-rawmemchr-sse2.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os (rawmemchr)
+/home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-memcmp-sse2.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os (memcmp)
+/home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-strchr-sse2.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os (strchr)
+/home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-strlen-sse2.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os (strlen)
+/home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-strnlen-sse2.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os (strnlen)
+/home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-stpcpy-sse2.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os (__stpcpy)
+/home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-strcspn-sse2.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os (strcspn)
+/home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-memmove-sse2-unaligned-erms.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os (__mempcpy)
+/home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-memset-sse2-unaligned-erms.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os (memset)
+/home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-strrchr-sse2.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-basename.os) (strrchr)
+/home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-setitimer.os)
+                              /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-profil.os) (__setitimer)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+START GROUP
+LOAD /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os
+LOAD /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/libgcc.a
+END GROUP
+
+.interp
+ *(.interp)
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.hash
+ *(.hash)
+
+.gnu.hash
+ *(.gnu.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rela.init
+ *(.rela.init)
+
+.rela.text
+ *(.rela.text)
+
+.rela.fini
+ *(.rela.fini)
+
+.rela.rodata
+ *(.rela.rodata)
+
+.rela.data.rel.ro
+ *(.rela.data.rel.ro)
+
+.rela.data
+ *(.rela.data)
+
+.rela.tdata
+ *(.rela.tdata)
+
+.rela.tbss
+ *(.rela.tbss)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rela.got
+ *(.rela.got)
+
+.rela.bss
+ *(.rela.bss)
+
+.rela.ldata
+ *(.rela.ldata)
+
+.rela.lbss
+ *(.rela.lbss)
+
+.rela.lrodata
+ *(.rela.lrodata)
+
+.rela.ifunc
+ *(.rela.ifunc)
+
+.rela.plt
+ *(.rela.plt)
+
+.init
+ *(SORT_NONE(.init))
+
+.plt
+ *(.plt)
+ *(.iplt)
+
+.plt.got
+ *(.plt.got)
+
+.plt.sec
+ *(.plt.sec)
+
+.text           0x0000000000000000    0x1c2c0
+ *(.text .stub)
+ .text          0x0000000000000000    0x18c00 /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os
+                0x0000000000000000                _start
+                0x0000000000000008                _dl_start_user
+                0x0000000000001240                handle_ld_preload
+                0x0000000000006950                _dl_dst_count
+                0x0000000000006a00                _dl_dst_substitute
+                0x00000000000071d0                _dl_init_paths
+                0x00000000000074d0                _dl_map_object
+                0x0000000000007f50                _dl_rtld_di_serinfo
+                0x0000000000008e80                _dl_lookup_symbol_x
+                0x0000000000009da0                _dl_setup_hash
+                0x0000000000009e50                _dl_add_to_namespace_list
+                0x0000000000009ee0                _dl_new_object
+                0x000000000000a250                _dl_try_allocate_static_tls
+                0x000000000000a330                _dl_allocate_static_tls
+                0x000000000000a360                _dl_nothread_init_static_tls
+                0x000000000000a3a0                _dl_protect_relro
+                0x000000000000a410                _dl_reloc_bad_type
+                0x000000000000a4e0                _dl_relocate_object
+                0x000000000000be20                _dl_map_object_deps
+                0x000000000000ceb0                _dl_important_hwcaps
+                0x000000000000d670                _dl_fixup
+                0x000000000000d810                _dl_profile_fixup
+                0x000000000000ddc0                _dl_call_pltexit
+                0x000000000000dfe0                _dl_init
+                0x000000000000e120                _dl_fini
+                0x000000000000e500                _dl_debug_state
+                0x000000000000e500                __GI__dl_debug_state
+                0x000000000000e510                _dl_debug_initialize
+                0x000000000000eba0                _dl_sysdep_read_whole_file
+                0x000000000000ec30                _dl_debug_printf
+                0x000000000000ece0                _dl_debug_printf_c
+                0x000000000000ed90                _dl_dprintf
+                0x000000000000ee30                _dl_name_match_p
+                0x000000000000eea0                _dl_higher_prime_number
+                0x000000000000ef20                _dl_strtoul
+                0x000000000000f090                _dl_check_map_versions
+                0x000000000000f7f0                _dl_check_all_versions
+                0x000000000000f860                _dl_start_profile
+                0x000000000000ffc0                __GI__dl_mcount
+                0x000000000000ffc0                _dl_mcount
+                0x0000000000010510                _dl_next_tls_modid
+                0x0000000000010610                _dl_count_modids
+                0x0000000000010680                _dl_determine_tlsoffset
+                0x0000000000010840                _dl_get_tls_static_info
+                0x0000000000010860                _dl_allocate_tls_storage
+                0x0000000000010920                __GI__dl_allocate_tls_init
+                0x0000000000010920                _dl_allocate_tls_init
+                0x0000000000010ba0                __GI__dl_allocate_tls
+                0x0000000000010ba0                _dl_allocate_tls
+                0x0000000000010be0                _dl_deallocate_tls
+                0x0000000000010be0                __GI__dl_deallocate_tls
+                0x0000000000010c60                _dl_update_slotinfo
+                0x0000000000010ed0                __GI___tls_get_addr
+                0x0000000000010ed0                ___tls_get_addr
+                0x0000000000010f10                _dl_tls_get_addr_soft
+                0x0000000000010f90                _dl_add_to_slotinfo
+                0x0000000000011080                __tls_get_addr_slow
+                0x00000000000110b0                _dl_get_origin
+                0x0000000000011250                _dl_scope_free
+                0x0000000000011320                _dl_make_stack_executable
+                0x0000000000011320                __GI__dl_make_stack_executable
+                0x00000000000113b0                _dl_check_caller
+                0x00000000000117a0                __GI__dl_find_dso_for_object
+                0x00000000000117a0                _dl_find_dso_for_object
+                0x0000000000011870                _dl_open
+                0x0000000000011ba0                _dl_show_scope
+                0x00000000000125e0                _dl_close_worker
+                0x0000000000013620                _dl_close
+                0x0000000000013690                _dl_runtime_profile_avx512
+                0x0000000000013b10                _dl_runtime_profile_avx
+                0x0000000000013f90                _dl_runtime_profile_sse
+                0x0000000000014190                _dl_runtime_resolve_fxsave
+                0x0000000000014210                _dl_runtime_resolve_xsave
+                0x00000000000142e0                _dl_runtime_resolve_xsavec
+                0x00000000000143d0                _dl_exception_create
+                0x00000000000143d0                __GI__dl_exception_create
+                0x00000000000144d0                __GI__dl_exception_create_format
+                0x00000000000144d0                _dl_exception_create_format
+                0x00000000000147f0                _dl_exception_free
+                0x00000000000147f0                __GI__dl_exception_free
+                0x0000000000014820                _dl_sort_maps
+                0x0000000000014b00                _dl_cache_libcmp
+                0x0000000000014bd0                _dl_load_cache_lookup
+                0x0000000000015250                _dl_unload_cache
+                0x0000000000015350                __tunable_set_val
+                0x0000000000015370                __GI___tunables_init
+                0x0000000000015830                __tunable_get_val
+                0x0000000000015830                __GI___tunable_get_val
+                0x0000000000015890                _dl_make_tlsdesc_dynamic
+                0x0000000000015b90                _dl_tlsdesc_resolve_rela_fixup
+                0x0000000000015d50                _dl_tlsdesc_resolve_hold_fixup
+                0x0000000000015d90                _dl_unmap
+                0x0000000000015e10                _dl_tlsdesc_return
+                0x0000000000015e20                _dl_tlsdesc_undefweak
+                0x0000000000015e30                _dl_tlsdesc_dynamic
+                0x0000000000015ed0                _dl_tlsdesc_resolve_rela
+                0x0000000000015f40                _dl_tlsdesc_resolve_hold
+                0x0000000000015fc0                __tls_get_addr
+                0x0000000000016000                __get_cpu_features
+                0x0000000000016010                _dl_tunable_set_hwcaps
+                0x0000000000016eb0                _dl_sysdep_start
+                0x0000000000017650                _dl_sysdep_start_cleanup
+                0x0000000000017660                _dl_show_auxv
+                0x00000000000177e0                _dl_discover_osversion
+                0x00000000000179c0                _dl_next_ld_env_entry
+                0x0000000000017a10                unsetenv
+                0x0000000000017a80                malloc
+                0x0000000000017bb0                calloc
+                0x0000000000017bf0                free
+                0x0000000000017c30                __sigjmp_save
+                0x0000000000017c40                __strerror_r
+                0x0000000000017d20                __GI___libc_fatal
+                0x0000000000017d20                __libc_fatal
+                0x0000000000017d50                __GI___chk_fail
+                0x0000000000017d50                __chk_fail
+                0x0000000000017d60                __GI___assert_fail
+                0x0000000000017d60                __assert_fail
+                0x0000000000017db0                realloc
+                0x0000000000017e40                __GI___assert_perror_fail
+                0x0000000000017e40                __assert_perror_fail
+                0x0000000000017eb0                _itoa
+                0x0000000000017f00                __strsep
+                0x0000000000017f00                strsep
+                0x0000000000017f00                __strsep_g
+                0x0000000000018040                _dl_signal_exception
+                0x0000000000018090                _dl_signal_error
+                0x00000000000180e0                _dl_signal_cexception
+                0x0000000000018160                _dl_signal_cerror
+                0x00000000000181f0                _dl_catch_exception
+                0x00000000000182a0                _dl_catch_error
+                0x00000000000182f0                _dl_receive_error
+                0x0000000000018330                _dl_resolve_conflicts
+                0x00000000000184a0                __brk
+                0x00000000000184a0                brk
+                0x00000000000184f0                sbrk
+                0x00000000000184f0                __sbrk
+                0x0000000000018580                __getcwd
+                0x0000000000018580                getcwd
+                0x00000000000189b0                openat64
+                0x0000000000018a10                __alloc_dir
+                0x0000000000018b10                __opendir
+                0x0000000000018b10                opendir
+                0x0000000000018bb0                __fxstatat
+                0x0000000000018bb0                __fxstatat64
+                0x0000000000018bb0                __GI___fxstatat64
+ .text          0x0000000000018c00       0xd2 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-check_fds.os)
+                0x0000000000018ca0                __libc_check_standard_fds
+ .text          0x0000000000018cd2        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-errno.os)
+ *fill*         0x0000000000018cd2        0xe 
+ .text          0x0000000000018ce0       0x28 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-closedir.os)
+                0x0000000000018ce0                __closedir
+                0x0000000000018ce0                closedir
+ *fill*         0x0000000000018d08        0x8 
+ .text          0x0000000000018d10       0x8d /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-readdir.os)
+                0x0000000000018d10                readdir
+                0x0000000000018d10                __readdir64
+                0x0000000000018d10                __readdir
+                0x0000000000018d10                __GI___readdir64
+                0x0000000000018d10                readdir64
+ *fill*         0x0000000000018d9d        0x3 
+ .text          0x0000000000018da0       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-rewinddir.os)
+                0x0000000000018da0                rewinddir
+                0x0000000000018da0                __rewinddir
+ .text          0x0000000000018dd0       0x89 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-getdents.os)
+                0x0000000000018dd0                __getdents
+                0x0000000000018dd0                __getdents64
+ *fill*         0x0000000000018e59        0x7 
+ .text          0x0000000000018e60       0x9e /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-fdopendir.os)
+                0x0000000000018e60                fdopendir
+                0x0000000000018e60                __fdopendir
+ *fill*         0x0000000000018efe        0x2 
+ .text          0x0000000000018f00       0x53 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+                0x0000000000018f00                _dl_addr_inside_object
+ *fill*         0x0000000000018f53        0xd 
+ .text          0x0000000000018f60      0x103 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-profil.os)
+                0x0000000000018fb0                __profil
+                0x0000000000018fb0                profil
+ *fill*         0x0000000000019063        0xd 
+ .text          0x0000000000019070        0x7 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-prof-freq.os)
+                0x0000000000019070                __profile_frequency
+ *fill*         0x0000000000019077        0x9 
+ .text          0x0000000000019080       0x40 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-xstat.os)
+                0x0000000000019080                _xstat
+                0x0000000000019080                __xstat64
+                0x0000000000019080                __GI___xstat64
+                0x0000000000019080                __GI___xstat
+                0x0000000000019080                __xstat
+ .text          0x00000000000190c0       0x40 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-fxstat.os)
+                0x00000000000190c0                __GI___fxstat
+                0x00000000000190c0                __GI___fxstat64
+                0x00000000000190c0                __fxstat64
+                0x00000000000190c0                _fxstat
+                0x00000000000190c0                __fxstat
+ .text          0x0000000000019100       0x40 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-lxstat.os)
+                0x0000000000019100                __GI___lxstat
+                0x0000000000019100                _lxstat
+                0x0000000000019100                __lxstat
+                0x0000000000019100                __lxstat64
+                0x0000000000019100                __GI___lxstat64
+ .text          0x0000000000019140       0x76 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-open64.os)
+                0x0000000000019140                __open
+                0x0000000000019140                __open_nocancel
+                0x0000000000019140                __libc_open64
+                0x0000000000019140                __libc_open
+                0x0000000000019140                open64
+                0x0000000000019140                __open64_nocancel
+                0x0000000000019140                open
+                0x0000000000019140                __open64
+ *fill*         0x00000000000191b6        0xa 
+ .text          0x00000000000191c0       0x66 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-openat64.os)
+                0x00000000000191c0                __openat64
+                0x00000000000191c0                __openat64_nocancel
+                0x00000000000191c0                __libc_openat64
+                0x00000000000191c0                __openat
+                0x00000000000191c0                openat
+                0x00000000000191c0                __openat_nocancel
+ *fill*         0x0000000000019226        0xa 
+ .text          0x0000000000019230       0x20 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-read.os)
+                0x0000000000019230                __read
+                0x0000000000019230                __libc_read
+                0x0000000000019230                __read_nocancel
+                0x0000000000019230                read
+ .text          0x0000000000019250       0x28 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-write.os)
+                0x0000000000019250                __write
+                0x0000000000019250                write
+                0x0000000000019250                __write_nocancel
+                0x0000000000019250                __libc_write
+ *fill*         0x0000000000019278        0x8 
+ .text          0x0000000000019280       0x28 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-lseek64.os)
+                0x0000000000019280                __lseek64
+                0x0000000000019280                lseek
+                0x0000000000019280                __libc_lseek64
+                0x0000000000019280                llseek
+                0x0000000000019280                __lseek
+                0x0000000000019280                __libc_lseek
+                0x0000000000019280                lseek64
+ *fill*         0x00000000000192a8        0x8 
+ .text          0x00000000000192b0       0x26 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-access.os)
+                0x00000000000192b0                access
+                0x00000000000192b0                __access
+ *fill*         0x00000000000192d6        0xa 
+ .text          0x00000000000192e0       0x7e /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-fcntl.os)
+                0x00000000000192e0                __libc_fcntl
+                0x00000000000192e0                __fcntl_nocancel
+                0x00000000000192e0                __fcntl
+                0x00000000000192e0                fcntl
+ *fill*         0x000000000001935e        0x2 
+ .text          0x0000000000019360       0x26 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-close.os)
+                0x0000000000019360                __libc_close
+                0x0000000000019360                __close_nocancel
+                0x0000000000019360                __close
+                0x0000000000019360                close
+ *fill*         0x0000000000019386        0xa 
+ .text          0x0000000000019390       0xc1 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-mmap64.os)
+                0x0000000000019390                __mmap
+                0x0000000000019390                mmap
+                0x0000000000019390                __mmap64
+                0x0000000000019390                mmap64
+ *fill*         0x0000000000019451        0xf 
+ .text          0x0000000000019460       0x20 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-munmap.os)
+                0x0000000000019460                munmap
+                0x0000000000019460                __GI___munmap
+                0x0000000000019460                __GI_munmap
+                0x0000000000019460                __munmap
+ .text          0x0000000000019480       0x20 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-mprotect.os)
+                0x0000000000019480                __mprotect
+                0x0000000000019480                __GI___mprotect
+                0x0000000000019480                __GI_mprotect
+                0x0000000000019480                mprotect
+ .text          0x00000000000194a0       0x20 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-uname.os)
+                0x00000000000194a0                uname
+                0x00000000000194a0                __GI_uname
+                0x00000000000194a0                __uname
+                0x00000000000194a0                __GI___uname
+ .text          0x00000000000194c0       0x4a /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-_exit.os)
+                0x00000000000194c0                _Exit
+                0x00000000000194c0                __GI__exit
+                0x00000000000194c0                _exit
+ *fill*         0x000000000001950a        0x6 
+ .text          0x0000000000019510        0x8 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-getpid.os)
+                0x0000000000019510                __getpid
+                0x0000000000019510                getpid
+                0x0000000000019510                __GI_getpid
+                0x0000000000019510                __GI___getpid
+ .text          0x0000000000019518        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-environ.os)
+ *fill*         0x0000000000019518        0x8 
+ .text          0x0000000000019520       0x4f /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-setjmp.os)
+                0x0000000000019520                __sigsetjmp
+                0x0000000000019520                __GI___sigsetjmp
+ *fill*         0x000000000001956f        0x1 
+ .text          0x0000000000019570       0x4a /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-__longjmp.os)
+                0x0000000000019570                __longjmp
+ *fill*         0x00000000000195ba        0x6 
+ .text          0x00000000000195c0      0x1e0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-sigaction.os)
+                0x00000000000195e0                __libc_sigaction
+                0x0000000000019780                sigaction
+                0x0000000000019780                __sigaction
+ .text          0x00000000000197a0       0x41 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-strdup.os)
+                0x00000000000197a0                __strdup
+                0x00000000000197a0                strdup
+ *fill*         0x00000000000197e1        0xf 
+ .text          0x00000000000197f0       0x1e /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-basename.os)
+                0x00000000000197f0                basename
+                0x00000000000197f0                __basename
+ *fill*         0x000000000001980e        0x2 
+ .text          0x0000000000019810     0x1439 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-strcmp-sse2.os)
+                0x0000000000019810                strcmp
+ *fill*         0x000000000001ac49        0x7 
+ .text          0x000000000001ac50      0x323 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-memchr-sse2.os)
+                0x000000000001ac50                memchr
+                0x000000000001ac50                __memchr
+ *fill*         0x000000000001af73        0xd 
+ .text          0x000000000001af80      0x1f9 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-rawmemchr-sse2.os)
+                0x000000000001af80                __rawmemchr
+                0x000000000001af80                rawmemchr
+ *fill*         0x000000000001b179        0x7 
+ .text          0x000000000001b180      0x400 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-memcmp-sse2.os)
+                0x000000000001b180                bcmp
+                0x000000000001b180                memcmp
+ .text          0x000000000001b580      0x21a /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-strchr-sse2.os)
+                0x000000000001b580                index
+                0x000000000001b580                strchr
+ *fill*         0x000000000001b79a        0x6 
+ .text          0x000000000001b7a0      0x19c /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-strlen-sse2.os)
+                0x000000000001b7a0                strlen
+ *fill*         0x000000000001b93c        0x4 
+ .text          0x000000000001b940      0x218 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-strnlen-sse2.os)
+                0x000000000001b940                __strnlen
+                0x000000000001b940                strnlen
+ *fill*         0x000000000001bb58        0x8 
+ .text          0x000000000001bb60       0xdc /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-stpcpy-sse2.os)
+                0x000000000001bb60                stpcpy
+                0x000000000001bb60                __stpcpy
+ *fill*         0x000000000001bc3c        0x4 
+ .text          0x000000000001bc40       0x97 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-strcspn-sse2.os)
+                0x000000000001bc40                strcspn
+ *fill*         0x000000000001bcd7        0x9 
+ .text          0x000000000001bce0      0x1ed /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-memmove-sse2-unaligned-erms.os)
+                0x000000000001bce0                mempcpy
+                0x000000000001bce0                __mempcpy
+                0x000000000001bcf0                memmove
+                0x000000000001bcf0                memcpy
+ *fill*         0x000000000001becd        0x3 
+ .text          0x000000000001bed0       0xda /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-memset-sse2-unaligned-erms.os)
+                0x000000000001bed0                memset
+ *fill*         0x000000000001bfaa        0x6 
+ .text          0x000000000001bfb0      0x2e2 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-strrchr-sse2.os)
+                0x000000000001bfb0                strrchr
+                0x000000000001bfb0                rindex
+ *fill*         0x000000000001c292        0xe 
+ .text          0x000000000001c2a0       0x20 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-setitimer.os)
+                0x000000000001c2a0                setitimer
+                0x000000000001c2a0                __setitimer
+                0x000000000001c2a0                __GI_setitimer
+                0x000000000001c2a0                __GI___setitimer
+ *(.gnu.warning)
+
+.text.unlikely  0x0000000000000000      0x172
+ .text.unlikely
+                0x0000000000000000      0x172 /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os
+
+.fini
+ *(SORT_NONE(.fini))
+
+.rodata         0x0000000000000000      0xd88
+ *(.rodata)
+ .rodata        0x0000000000000000      0xd48 /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os
+                0x0000000000000ca0                __GI__itoa_lower_digits
+                0x0000000000000ca0                _itoa_lower_digits
+ .rodata        0x0000000000000d48       0x40 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-strcmp-sse2.os)
+
+.rodata.str1.1  0x0000000000000000     0x1216
+ .rodata.str1.1
+                0x0000000000000000     0x1202 /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os
+ .rodata.str1.1
+                0x0000000000001202       0x14 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-check_fds.os)
+
+.rodata.str1.8  0x0000000000000000     0x2541
+ .rodata.str1.8
+                0x0000000000000000     0x2541 /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os
+
+.rodata.str1.16
+                0x0000000000000000      0x376
+ .rodata.str1.16
+                0x0000000000000000      0x376 /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os
+
+.rodata.cst16   0x0000000000000000       0x20
+ .rodata.cst16  0x0000000000000000       0x20 /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os
+
+.rodata.cst4    0x0000000000000000        0x4
+ .rodata.cst4   0x0000000000000000        0x4 /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os
+
+.rodata.str1.32
+                0x0000000000000000       0x3b
+ .rodata.str1.32
+                0x0000000000000000       0x3b /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os
+
+.rodata1
+ *(.rodata1)
+
+.eh_frame_hdr
+ *(.eh_frame_hdr)
+
+.eh_frame       0x0000000000000000     0x2f14
+ *(.eh_frame)
+ .eh_frame      0x0000000000000000     0x24c0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os
+                                       0x2504 (size before relaxing)
+ *fill*         0x00000000000024c0        0x0 
+ .eh_frame      0x00000000000024c0       0x68 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-check_fds.os)
+ .eh_frame      0x0000000000002528       0x38 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-closedir.os)
+ .eh_frame      0x0000000000002560       0x48 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-readdir.os)
+ .eh_frame      0x00000000000025a8       0x38 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-rewinddir.os)
+ .eh_frame      0x00000000000025e0       0x68 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-getdents.os)
+ .eh_frame      0x0000000000002648       0x50 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-fdopendir.os)
+ .eh_frame      0x0000000000002698       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ .eh_frame      0x00000000000026c8       0x48 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-profil.os)
+ .eh_frame      0x0000000000002710       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-prof-freq.os)
+ .eh_frame      0x0000000000002740       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-xstat.os)
+ .eh_frame      0x0000000000002770       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-fxstat.os)
+ .eh_frame      0x00000000000027a0       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-lxstat.os)
+ .eh_frame      0x00000000000027d0       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-open64.os)
+ .eh_frame      0x0000000000002800       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-openat64.os)
+ .eh_frame      0x0000000000002830       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-read.os)
+ .eh_frame      0x0000000000002860       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-write.os)
+ .eh_frame      0x0000000000002890       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-lseek64.os)
+ .eh_frame      0x00000000000028c0       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-access.os)
+ .eh_frame      0x00000000000028f0       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-fcntl.os)
+ .eh_frame      0x0000000000002920       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-close.os)
+ .eh_frame      0x0000000000002950       0x70 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-mmap64.os)
+ .eh_frame      0x00000000000029c0       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-munmap.os)
+ .eh_frame      0x00000000000029f0       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-mprotect.os)
+ .eh_frame      0x0000000000002a20       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-uname.os)
+ .eh_frame      0x0000000000002a50       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-_exit.os)
+ .eh_frame      0x0000000000002a80       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-getpid.os)
+ .eh_frame      0x0000000000002ab0       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-setjmp.os)
+ .eh_frame      0x0000000000002ae0       0x48 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-__longjmp.os)
+ .eh_frame      0x0000000000002b28       0xe0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-sigaction.os)
+                                         0xe8 (size before relaxing)
+ .eh_frame      0x0000000000002c08       0x50 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-strdup.os)
+ .eh_frame      0x0000000000002c58       0x38 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-basename.os)
+ .eh_frame      0x0000000000002c90       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-strcmp-sse2.os)
+ .eh_frame      0x0000000000002cc0       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-memchr-sse2.os)
+ .eh_frame      0x0000000000002cf0       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-rawmemchr-sse2.os)
+ .eh_frame      0x0000000000002d20       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-memcmp-sse2.os)
+ .eh_frame      0x0000000000002d50       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-strchr-sse2.os)
+ .eh_frame      0x0000000000002d80       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-strlen-sse2.os)
+ .eh_frame      0x0000000000002db0       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-strnlen-sse2.os)
+ .eh_frame      0x0000000000002de0       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-stpcpy-sse2.os)
+ .eh_frame      0x0000000000002e10       0x38 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-strcspn-sse2.os)
+ .eh_frame      0x0000000000002e48       0x40 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-memmove-sse2-unaligned-erms.os)
+ .eh_frame      0x0000000000002e88       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-memset-sse2-unaligned-erms.os)
+ .eh_frame      0x0000000000002eb8       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-strrchr-sse2.os)
+ .eh_frame      0x0000000000002ee8       0x2c /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-setitimer.os)
+                                         0x30 (size before relaxing)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.gnu_extab
+ *(.gnu_extab*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+
+.eh_frame
+ *(.eh_frame)
+
+.gnu_extab
+ *(.gnu_extab)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+
+.tdata
+ *(.tdata)
+
+.tbss
+ *(.tbss)
+
+.jcr
+ *(.jcr)
+
+.dynamic
+ *(.dynamic)
+
+.got
+ *(.got)
+ *(.igot)
+
+.got.plt
+ *(.got.plt)
+ *(.igot.plt)
+
+.data           0x0000000000000000      0xf78
+ *(.data)
+ .data          0x0000000000000000      0xf78 /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os
+                0x0000000000000000                _rtld_global
+                0x0000000000000000                _rtld_local
+ .data          0x0000000000000f78        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-check_fds.os)
+ .data          0x0000000000000f78        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-errno.os)
+ .data          0x0000000000000f78        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-closedir.os)
+ .data          0x0000000000000f78        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-readdir.os)
+ .data          0x0000000000000f78        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-rewinddir.os)
+ .data          0x0000000000000f78        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-getdents.os)
+ .data          0x0000000000000f78        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-fdopendir.os)
+ .data          0x0000000000000f78        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ .data          0x0000000000000f78        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-profil.os)
+ .data          0x0000000000000f78        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-prof-freq.os)
+ .data          0x0000000000000f78        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-xstat.os)
+ .data          0x0000000000000f78        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-fxstat.os)
+ .data          0x0000000000000f78        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-lxstat.os)
+ .data          0x0000000000000f78        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-open64.os)
+ .data          0x0000000000000f78        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-openat64.os)
+ .data          0x0000000000000f78        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-read.os)
+ .data          0x0000000000000f78        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-write.os)
+ .data          0x0000000000000f78        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-lseek64.os)
+ .data          0x0000000000000f78        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-access.os)
+ .data          0x0000000000000f78        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-fcntl.os)
+ .data          0x0000000000000f78        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-close.os)
+ .data          0x0000000000000f78        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-mmap64.os)
+ .data          0x0000000000000f78        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-munmap.os)
+ .data          0x0000000000000f78        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-mprotect.os)
+ .data          0x0000000000000f78        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-uname.os)
+ .data          0x0000000000000f78        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-_exit.os)
+ .data          0x0000000000000f78        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-getpid.os)
+ .data          0x0000000000000f78        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-environ.os)
+ .data          0x0000000000000f78        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-setjmp.os)
+ .data          0x0000000000000f78        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-__longjmp.os)
+ .data          0x0000000000000f78        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-sigaction.os)
+ .data          0x0000000000000f78        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-strdup.os)
+ .data          0x0000000000000f78        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-basename.os)
+ .data          0x0000000000000f78        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-strcmp-sse2.os)
+ .data          0x0000000000000f78        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-memchr-sse2.os)
+ .data          0x0000000000000f78        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-rawmemchr-sse2.os)
+ .data          0x0000000000000f78        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-memcmp-sse2.os)
+ .data          0x0000000000000f78        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-strchr-sse2.os)
+ .data          0x0000000000000f78        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-strlen-sse2.os)
+ .data          0x0000000000000f78        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-strnlen-sse2.os)
+ .data          0x0000000000000f78        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-stpcpy-sse2.os)
+ .data          0x0000000000000f78        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-strcspn-sse2.os)
+ .data          0x0000000000000f78        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-memmove-sse2-unaligned-erms.os)
+ .data          0x0000000000000f78        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-memset-sse2-unaligned-erms.os)
+ .data          0x0000000000000f78        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-strrchr-sse2.os)
+ .data          0x0000000000000f78        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-setitimer.os)
+
+.data.rel.ro    0x0000000000000000      0x7e4
+ .data.rel.ro   0x0000000000000000      0x7e4 /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os
+                0x00000000000000b0                __pointer_chk_guard_local
+                0x00000000000000b8                _dl_skip_args
+                0x00000000000000c0                __GI__dl_argv
+                0x00000000000000c0                _dl_argv
+                0x00000000000000c8                _dl_argc
+                0x00000000000000e0                _rtld_global_ro
+                0x00000000000000e0                _rtld_local_ro
+                0x00000000000002e0                __stack_prot
+                0x00000000000007d0                _dl_random
+                0x00000000000007d8                __libc_stack_end
+                0x00000000000007d8                __GI___libc_stack_end
+                0x00000000000007e0                __GI___libc_enable_secure
+                0x00000000000007e0                __libc_enable_secure
+
+.data1
+ *(.data1)
+
+.bss            0x0000000000000000      0x140
+ *(.bss)
+ .bss           0x0000000000000000      0x118 /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os
+                0x00000000000000e0                __libc_multiple_libcs
+                0x0000000000000110                __curbrk
+ .bss           0x0000000000000118        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-check_fds.os)
+ .bss           0x0000000000000118        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-errno.os)
+ .bss           0x0000000000000118        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-closedir.os)
+ .bss           0x0000000000000118        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-readdir.os)
+ .bss           0x0000000000000118        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-rewinddir.os)
+ .bss           0x0000000000000118        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-getdents.os)
+ .bss           0x0000000000000118        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-fdopendir.os)
+ .bss           0x0000000000000118        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ .bss           0x0000000000000118       0x20 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-profil.os)
+ .bss           0x0000000000000138        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-prof-freq.os)
+ .bss           0x0000000000000138        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-xstat.os)
+ .bss           0x0000000000000138        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-fxstat.os)
+ .bss           0x0000000000000138        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-lxstat.os)
+ .bss           0x0000000000000138        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-open64.os)
+ .bss           0x0000000000000138        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-openat64.os)
+ .bss           0x0000000000000138        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-read.os)
+ .bss           0x0000000000000138        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-write.os)
+ .bss           0x0000000000000138        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-lseek64.os)
+ .bss           0x0000000000000138        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-access.os)
+ .bss           0x0000000000000138        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-fcntl.os)
+ .bss           0x0000000000000138        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-close.os)
+ .bss           0x0000000000000138        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-mmap64.os)
+ .bss           0x0000000000000138        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-munmap.os)
+ .bss           0x0000000000000138        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-mprotect.os)
+ .bss           0x0000000000000138        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-uname.os)
+ .bss           0x0000000000000138        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-_exit.os)
+ .bss           0x0000000000000138        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-getpid.os)
+ .bss           0x0000000000000138        0x8 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-environ.os)
+                0x0000000000000138                _environ
+                0x0000000000000138                __environ
+                0x0000000000000138                environ
+ .bss           0x0000000000000140        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-setjmp.os)
+ .bss           0x0000000000000140        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-__longjmp.os)
+ .bss           0x0000000000000140        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-sigaction.os)
+ .bss           0x0000000000000140        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-strdup.os)
+ .bss           0x0000000000000140        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-basename.os)
+ .bss           0x0000000000000140        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-strcmp-sse2.os)
+ .bss           0x0000000000000140        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-memchr-sse2.os)
+ .bss           0x0000000000000140        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-rawmemchr-sse2.os)
+ .bss           0x0000000000000140        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-memcmp-sse2.os)
+ .bss           0x0000000000000140        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-strchr-sse2.os)
+ .bss           0x0000000000000140        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-strlen-sse2.os)
+ .bss           0x0000000000000140        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-strnlen-sse2.os)
+ .bss           0x0000000000000140        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-stpcpy-sse2.os)
+ .bss           0x0000000000000140        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-strcspn-sse2.os)
+ .bss           0x0000000000000140        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-memmove-sse2-unaligned-erms.os)
+ .bss           0x0000000000000140        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-memset-sse2-unaligned-erms.os)
+ .bss           0x0000000000000140        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-strrchr-sse2.os)
+ .bss           0x0000000000000140        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-setitimer.os)
+ *(COMMON)
+ COMMON         0x0000000000000140        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os
+ COMMON         0x0000000000000140        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-errno.os)
+
+.lbss
+ *(.dynlbss)
+ *(.lbss)
+ *(LARGE_COMMON)
+
+.lrodata
+ *(.lrodata)
+
+.ldata
+ *(.ldata)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000      0xaaa
+ *(.comment)
+ .comment       0x0000000000000000      0x63c /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os
+ .comment       0x000000000000063c       0x2a /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-check_fds.os)
+ .comment       0x0000000000000666       0x2a /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-errno.os)
+ .comment       0x0000000000000690       0x2a /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-closedir.os)
+ .comment       0x00000000000006ba       0x2a /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-readdir.os)
+ .comment       0x00000000000006e4       0x2a /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-rewinddir.os)
+ .comment       0x000000000000070e       0x2a /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-getdents.os)
+ .comment       0x0000000000000738       0x2a /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-fdopendir.os)
+ .comment       0x0000000000000762       0x2a /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ .comment       0x000000000000078c       0x2a /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-profil.os)
+ .comment       0x00000000000007b6       0x2a /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-prof-freq.os)
+ .comment       0x00000000000007e0       0x2a /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-xstat.os)
+ .comment       0x000000000000080a       0x2a /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-fxstat.os)
+ .comment       0x0000000000000834       0x2a /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-lxstat.os)
+ .comment       0x000000000000085e       0x2a /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-open64.os)
+ .comment       0x0000000000000888       0x2a /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-openat64.os)
+ .comment       0x00000000000008b2       0x2a /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-read.os)
+ .comment       0x00000000000008dc       0x2a /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-write.os)
+ .comment       0x0000000000000906       0x2a /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-lseek64.os)
+ .comment       0x0000000000000930       0x2a /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-access.os)
+ .comment       0x000000000000095a       0x2a /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-fcntl.os)
+ .comment       0x0000000000000984       0x2a /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-close.os)
+ .comment       0x00000000000009ae       0x2a /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-mmap64.os)
+ .comment       0x00000000000009d8       0x2a /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-_exit.os)
+ .comment       0x0000000000000a02       0x2a /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-environ.os)
+ .comment       0x0000000000000a2c       0x2a /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-sigaction.os)
+ .comment       0x0000000000000a56       0x2a /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-strdup.os)
+ .comment       0x0000000000000a80       0x2a /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-basename.os)
+
+.note.GNU-stack
+                0x0000000000000000        0x0
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-check_fds.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-errno.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-closedir.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-readdir.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-rewinddir.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-getdents.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-fdopendir.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-profil.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-prof-freq.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-xstat.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-fxstat.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-lxstat.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-open64.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-openat64.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-read.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-write.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-lseek64.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-access.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-fcntl.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-close.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-mmap64.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-munmap.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-mprotect.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-uname.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-_exit.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-getpid.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-environ.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-setjmp.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-__longjmp.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-sigaction.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-strdup.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-basename.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-strcmp-sse2.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-memchr-sse2.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-rawmemchr-sse2.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-memcmp-sse2.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-strchr-sse2.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-strlen-sse2.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-strnlen-sse2.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-stpcpy-sse2.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-strcspn-sse2.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-memmove-sse2-unaligned-erms.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-memset-sse2-unaligned-erms.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-strrchr-sse2.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-setitimer.os)
+
+.gnu.warning.llseek
+                0x0000000000000000       0x3f
+ .gnu.warning.llseek
+                0x0000000000000000       0x3f /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-lseek64.os)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x0000000000000000     0x1050
+ *(.debug_aranges)
+ .debug_aranges
+                0x0000000000000000      0x7d0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os
+ .debug_aranges
+                0x00000000000007d0       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-check_fds.os)
+ .debug_aranges
+                0x0000000000000800       0x20 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-errno.os)
+ .debug_aranges
+                0x0000000000000820       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-closedir.os)
+ .debug_aranges
+                0x0000000000000850       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-readdir.os)
+ .debug_aranges
+                0x0000000000000880       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-rewinddir.os)
+ .debug_aranges
+                0x00000000000008b0       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-getdents.os)
+ .debug_aranges
+                0x00000000000008e0       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-fdopendir.os)
+ .debug_aranges
+                0x0000000000000910       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ .debug_aranges
+                0x0000000000000940       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-profil.os)
+ .debug_aranges
+                0x0000000000000970       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-prof-freq.os)
+ .debug_aranges
+                0x00000000000009a0       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-xstat.os)
+ .debug_aranges
+                0x00000000000009d0       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-fxstat.os)
+ .debug_aranges
+                0x0000000000000a00       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-lxstat.os)
+ .debug_aranges
+                0x0000000000000a30       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-open64.os)
+ .debug_aranges
+                0x0000000000000a60       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-openat64.os)
+ .debug_aranges
+                0x0000000000000a90       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-read.os)
+ .debug_aranges
+                0x0000000000000ac0       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-write.os)
+ .debug_aranges
+                0x0000000000000af0       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-lseek64.os)
+ .debug_aranges
+                0x0000000000000b20       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-access.os)
+ .debug_aranges
+                0x0000000000000b50       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-fcntl.os)
+ .debug_aranges
+                0x0000000000000b80       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-close.os)
+ .debug_aranges
+                0x0000000000000bb0       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-mmap64.os)
+ .debug_aranges
+                0x0000000000000be0       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-munmap.os)
+ .debug_aranges
+                0x0000000000000c10       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-mprotect.os)
+ .debug_aranges
+                0x0000000000000c40       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-uname.os)
+ .debug_aranges
+                0x0000000000000c70       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-_exit.os)
+ .debug_aranges
+                0x0000000000000ca0       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-getpid.os)
+ .debug_aranges
+                0x0000000000000cd0       0x20 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-environ.os)
+ .debug_aranges
+                0x0000000000000cf0       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-setjmp.os)
+ .debug_aranges
+                0x0000000000000d20       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-__longjmp.os)
+ .debug_aranges
+                0x0000000000000d50       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-sigaction.os)
+ .debug_aranges
+                0x0000000000000d80       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-strdup.os)
+ .debug_aranges
+                0x0000000000000db0       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-basename.os)
+ .debug_aranges
+                0x0000000000000de0       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-strcmp-sse2.os)
+ .debug_aranges
+                0x0000000000000e10       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-memchr-sse2.os)
+ .debug_aranges
+                0x0000000000000e40       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-rawmemchr-sse2.os)
+ .debug_aranges
+                0x0000000000000e70       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-memcmp-sse2.os)
+ .debug_aranges
+                0x0000000000000ea0       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-strchr-sse2.os)
+ .debug_aranges
+                0x0000000000000ed0       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-strlen-sse2.os)
+ .debug_aranges
+                0x0000000000000f00       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-strnlen-sse2.os)
+ .debug_aranges
+                0x0000000000000f30       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-stpcpy-sse2.os)
+ .debug_aranges
+                0x0000000000000f60       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-strcspn-sse2.os)
+ .debug_aranges
+                0x0000000000000f90       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-memmove-sse2-unaligned-erms.os)
+ .debug_aranges
+                0x0000000000000fc0       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-memset-sse2-unaligned-erms.os)
+ .debug_aranges
+                0x0000000000000ff0       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-strrchr-sse2.os)
+ .debug_aranges
+                0x0000000000001020       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-setitimer.os)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x0000000000000000    0xbd406
+ *(.debug_info)
+ .debug_info    0x0000000000000000    0x94d71 /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os
+ .debug_info    0x0000000000094d71      0xab9 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-check_fds.os)
+ .debug_info    0x000000000009582a      0x6ad /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-errno.os)
+ .debug_info    0x0000000000095ed7     0x1dae /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-closedir.os)
+ .debug_info    0x0000000000097c85     0x1e3e /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-readdir.os)
+ .debug_info    0x0000000000099ac3     0x1d56 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-rewinddir.os)
+ .debug_info    0x000000000009b819     0x2165 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-getdents.os)
+ .debug_info    0x000000000009d97e     0x1f2d /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-fdopendir.os)
+ .debug_info    0x000000000009f8ab     0x2807 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ .debug_info    0x00000000000a20b2      0xb12 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-profil.os)
+ .debug_info    0x00000000000a2bc4     0x37f6 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-prof-freq.os)
+ .debug_info    0x00000000000a63ba      0x8e0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-xstat.os)
+ .debug_info    0x00000000000a6c9a      0x8df /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-fxstat.os)
+ .debug_info    0x00000000000a7579      0x8e0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-lxstat.os)
+ .debug_info    0x00000000000a7e59     0x2048 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-open64.os)
+ .debug_info    0x00000000000a9ea1     0x2066 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-openat64.os)
+ .debug_info    0x00000000000abf07     0x1f8e /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-read.os)
+ .debug_info    0x00000000000ade95     0x1f8e /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-write.os)
+ .debug_info    0x00000000000afe23      0x818 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-lseek64.os)
+ .debug_info    0x00000000000b063b     0x1ed3 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-access.os)
+ .debug_info    0x00000000000b250e     0x221f /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-fcntl.os)
+ .debug_info    0x00000000000b472d     0x1efe /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-close.os)
+ .debug_info    0x00000000000b662b     0x3bc8 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-mmap64.os)
+ .debug_info    0x00000000000ba1f3       0x2e /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-munmap.os)
+ .debug_info    0x00000000000ba221       0x2e /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-mprotect.os)
+ .debug_info    0x00000000000ba24f       0x2e /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-uname.os)
+ .debug_info    0x00000000000ba27d      0x7d7 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-_exit.os)
+ .debug_info    0x00000000000baa54       0x2e /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-getpid.os)
+ .debug_info    0x00000000000baa82       0xf8 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-environ.os)
+ .debug_info    0x00000000000bab7a       0x2e /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-setjmp.os)
+ .debug_info    0x00000000000baba8       0x2e /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-__longjmp.os)
+ .debug_info    0x00000000000babd6     0x22e0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-sigaction.os)
+ .debug_info    0x00000000000bceb6      0x20b /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-strdup.os)
+ .debug_info    0x00000000000bd0c1       0xef /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-basename.os)
+ .debug_info    0x00000000000bd1b0       0x2e /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-strcmp-sse2.os)
+ .debug_info    0x00000000000bd1de       0x2e /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-memchr-sse2.os)
+ .debug_info    0x00000000000bd20c       0x2e /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-rawmemchr-sse2.os)
+ .debug_info    0x00000000000bd23a       0x2e /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-memcmp-sse2.os)
+ .debug_info    0x00000000000bd268       0x2e /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-strchr-sse2.os)
+ .debug_info    0x00000000000bd296       0x2e /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-strlen-sse2.os)
+ .debug_info    0x00000000000bd2c4       0x2e /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-strnlen-sse2.os)
+ .debug_info    0x00000000000bd2f2       0x2e /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-stpcpy-sse2.os)
+ .debug_info    0x00000000000bd320       0x2e /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-strcspn-sse2.os)
+ .debug_info    0x00000000000bd34e       0x2e /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-memmove-sse2-unaligned-erms.os)
+ .debug_info    0x00000000000bd37c       0x2e /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-memset-sse2-unaligned-erms.os)
+ .debug_info    0x00000000000bd3aa       0x2e /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-strrchr-sse2.os)
+ .debug_info    0x00000000000bd3d8       0x2e /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-setitimer.os)
+
+.debug_abbrev   0x0000000000000000    0x106f0
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000000000000     0xbce5 /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os
+ .debug_abbrev  0x000000000000bce5      0x23b /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-check_fds.os)
+ .debug_abbrev  0x000000000000bf20      0x127 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-errno.os)
+ .debug_abbrev  0x000000000000c047      0x361 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-closedir.os)
+ .debug_abbrev  0x000000000000c3a8      0x356 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-readdir.os)
+ .debug_abbrev  0x000000000000c6fe      0x32f /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-rewinddir.os)
+ .debug_abbrev  0x000000000000ca2d      0x3b2 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-getdents.os)
+ .debug_abbrev  0x000000000000cddf      0x36f /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-fdopendir.os)
+ .debug_abbrev  0x000000000000d14e      0x35d /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ .debug_abbrev  0x000000000000d4ab      0x2bb /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-profil.os)
+ .debug_abbrev  0x000000000000d766      0x39a /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-prof-freq.os)
+ .debug_abbrev  0x000000000000db00      0x188 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-xstat.os)
+ .debug_abbrev  0x000000000000dc88      0x197 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-fxstat.os)
+ .debug_abbrev  0x000000000000de1f      0x188 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-lxstat.os)
+ .debug_abbrev  0x000000000000dfa7      0x36f /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-open64.os)
+ .debug_abbrev  0x000000000000e316      0x37e /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-openat64.os)
+ .debug_abbrev  0x000000000000e694      0x381 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-read.os)
+ .debug_abbrev  0x000000000000ea15      0x381 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-write.os)
+ .debug_abbrev  0x000000000000ed96      0x193 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-lseek64.os)
+ .debug_abbrev  0x000000000000ef29      0x33d /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-access.os)
+ .debug_abbrev  0x000000000000f266      0x3cc /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-fcntl.os)
+ .debug_abbrev  0x000000000000f632      0x372 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-close.os)
+ .debug_abbrev  0x000000000000f9a4      0x436 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-mmap64.os)
+ .debug_abbrev  0x000000000000fdda       0x14 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-munmap.os)
+ .debug_abbrev  0x000000000000fdee       0x14 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-mprotect.os)
+ .debug_abbrev  0x000000000000fe02       0x14 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-uname.os)
+ .debug_abbrev  0x000000000000fe16      0x190 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-_exit.os)
+ .debug_abbrev  0x000000000000ffa6       0x14 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-getpid.os)
+ .debug_abbrev  0x000000000000ffba       0x8b /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-environ.os)
+ .debug_abbrev  0x0000000000010045       0x14 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-setjmp.os)
+ .debug_abbrev  0x0000000000010059       0x14 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-__longjmp.os)
+ .debug_abbrev  0x000000000001006d      0x397 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-sigaction.os)
+ .debug_abbrev  0x0000000000010404      0x14c /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-strdup.os)
+ .debug_abbrev  0x0000000000010550       0x9c /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-basename.os)
+ .debug_abbrev  0x00000000000105ec       0x14 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-strcmp-sse2.os)
+ .debug_abbrev  0x0000000000010600       0x14 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-memchr-sse2.os)
+ .debug_abbrev  0x0000000000010614       0x14 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-rawmemchr-sse2.os)
+ .debug_abbrev  0x0000000000010628       0x14 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-memcmp-sse2.os)
+ .debug_abbrev  0x000000000001063c       0x14 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-strchr-sse2.os)
+ .debug_abbrev  0x0000000000010650       0x14 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-strlen-sse2.os)
+ .debug_abbrev  0x0000000000010664       0x14 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-strnlen-sse2.os)
+ .debug_abbrev  0x0000000000010678       0x14 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-stpcpy-sse2.os)
+ .debug_abbrev  0x000000000001068c       0x14 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-strcspn-sse2.os)
+ .debug_abbrev  0x00000000000106a0       0x14 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-memmove-sse2-unaligned-erms.os)
+ .debug_abbrev  0x00000000000106b4       0x14 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-memset-sse2-unaligned-erms.os)
+ .debug_abbrev  0x00000000000106c8       0x14 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-strrchr-sse2.os)
+ .debug_abbrev  0x00000000000106dc       0x14 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-setitimer.os)
+
+.debug_line     0x0000000000000000    0x17f2f
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x0000000000000000    0x113a1 /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os
+ .debug_line    0x00000000000113a1      0x2c3 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-check_fds.os)
+ .debug_line    0x0000000000011664      0x193 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-errno.os)
+ .debug_line    0x00000000000117f7      0x473 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-closedir.os)
+ .debug_line    0x0000000000011c6a      0x480 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-readdir.os)
+ .debug_line    0x00000000000120ea      0x42f /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-rewinddir.os)
+ .debug_line    0x0000000000012519      0x48a /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-getdents.os)
+ .debug_line    0x00000000000129a3      0x4b5 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-fdopendir.os)
+ .debug_line    0x0000000000012e58      0x44a /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ .debug_line    0x00000000000132a2      0x319 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-profil.os)
+ .debug_line    0x00000000000135bb      0x4ca /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-prof-freq.os)
+ .debug_line    0x0000000000013a85      0x21e /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-xstat.os)
+ .debug_line    0x0000000000013ca3      0x21f /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-fxstat.os)
+ .debug_line    0x0000000000013ec2      0x21f /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-lxstat.os)
+ .debug_line    0x00000000000140e1      0x474 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-open64.os)
+ .debug_line    0x0000000000014555      0x478 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-openat64.os)
+ .debug_line    0x00000000000149cd      0x42b /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-read.os)
+ .debug_line    0x0000000000014df8      0x42c /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-write.os)
+ .debug_line    0x0000000000015224      0x201 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-lseek64.os)
+ .debug_line    0x0000000000015425      0x43e /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-access.os)
+ .debug_line    0x0000000000015863      0x476 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-fcntl.os)
+ .debug_line    0x0000000000015cd9      0x42c /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-close.os)
+ .debug_line    0x0000000000016105      0x526 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-mmap64.os)
+ .debug_line    0x000000000001662b       0x59 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-munmap.os)
+ .debug_line    0x0000000000016684       0x59 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-mprotect.os)
+ .debug_line    0x00000000000166dd       0x59 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-uname.os)
+ .debug_line    0x0000000000016736      0x210 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-_exit.os)
+ .debug_line    0x0000000000016946       0x57 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-getpid.os)
+ .debug_line    0x000000000001699d       0x75 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-environ.os)
+ .debug_line    0x0000000000016a12       0x5f /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-setjmp.os)
+ .debug_line    0x0000000000016a71       0x61 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-__longjmp.os)
+ .debug_line    0x0000000000016ad2      0x524 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-sigaction.os)
+ .debug_line    0x0000000000016ff6       0xbf /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-strdup.os)
+ .debug_line    0x00000000000170b5       0x5b /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-basename.os)
+ .debug_line    0x0000000000017110      0x48f /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-strcmp-sse2.os)
+ .debug_line    0x000000000001759f      0x124 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-memchr-sse2.os)
+ .debug_line    0x00000000000176c3       0xd3 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-rawmemchr-sse2.os)
+ .debug_line    0x0000000000017796      0x14c /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-memcmp-sse2.os)
+ .debug_line    0x00000000000178e2       0xde /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-strchr-sse2.os)
+ .debug_line    0x00000000000179c0       0xa5 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-strlen-sse2.os)
+ .debug_line    0x0000000000017a65       0xa5 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-strnlen-sse2.os)
+ .debug_line    0x0000000000017b0a       0x95 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-stpcpy-sse2.os)
+ .debug_line    0x0000000000017b9f       0x80 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-strcspn-sse2.os)
+ .debug_line    0x0000000000017c1f       0xfc /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-memmove-sse2-unaligned-erms.os)
+ .debug_line    0x0000000000017d1b       0xab /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-memset-sse2-unaligned-erms.os)
+ .debug_line    0x0000000000017dc6      0x110 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-strrchr-sse2.os)
+ .debug_line    0x0000000000017ed6       0x59 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-setitimer.os)
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str      0x0000000000000000    0x7c836
+ *(.debug_str)
+ .debug_str     0x0000000000000000    0x5e470 /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os
+ .debug_str     0x000000000005e470      0x774 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-check_fds.os)
+ .debug_str     0x000000000005ebe4      0x53a /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-errno.os)
+ .debug_str     0x000000000005f11e     0x1663 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-closedir.os)
+ .debug_str     0x0000000000060781     0x16c3 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-readdir.os)
+ .debug_str     0x0000000000061e44     0x1608 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-rewinddir.os)
+ .debug_str     0x000000000006344c     0x176e /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-getdents.os)
+ .debug_str     0x0000000000064bba     0x1758 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-fdopendir.os)
+ .debug_str     0x0000000000066312     0x1c95 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ .debug_str     0x0000000000067fa7      0x818 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-profil.os)
+ .debug_str     0x00000000000687bf     0x277b /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-prof-freq.os)
+ .debug_str     0x000000000006af3a      0x6a3 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-xstat.os)
+ .debug_str     0x000000000006b5dd      0x6a1 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-fxstat.os)
+ .debug_str     0x000000000006bc7e      0x6a6 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-lxstat.os)
+ .debug_str     0x000000000006c324     0x18b4 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-open64.os)
+ .debug_str     0x000000000006dbd8     0x189e /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-openat64.os)
+ .debug_str     0x000000000006f476     0x182a /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-read.os)
+ .debug_str     0x0000000000070ca0     0x182c /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-write.os)
+ .debug_str     0x00000000000724cc      0x635 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-lseek64.os)
+ .debug_str     0x0000000000072b01     0x17ed /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-access.os)
+ .debug_str     0x00000000000742ee     0x18f4 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-fcntl.os)
+ .debug_str     0x0000000000075be2     0x17f3 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-close.os)
+ .debug_str     0x00000000000773d5     0x2864 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-mmap64.os)
+ .debug_str     0x0000000000079c39       0x5d /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-munmap.os)
+ .debug_str     0x0000000000079c96       0x5d /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-mprotect.os)
+ .debug_str     0x0000000000079cf3       0x5e /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-uname.os)
+ .debug_str     0x0000000000079d51      0x5fa /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-_exit.os)
+ .debug_str     0x000000000007a34b       0x5e /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-getpid.os)
+ .debug_str     0x000000000007a3a9      0x1e0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-environ.os)
+ .debug_str     0x000000000007a589       0x57 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-setjmp.os)
+ .debug_str     0x000000000007a5e0       0x5a /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-__longjmp.os)
+ .debug_str     0x000000000007a63a     0x1980 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-sigaction.os)
+ .debug_str     0x000000000007bfba      0x1f7 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-strdup.os)
+ .debug_str     0x000000000007c1b1      0x186 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-basename.os)
+ .debug_str     0x000000000007c337       0x57 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-strcmp-sse2.os)
+ .debug_str     0x000000000007c38e       0x64 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-memchr-sse2.os)
+ .debug_str     0x000000000007c3f2       0x67 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-rawmemchr-sse2.os)
+ .debug_str     0x000000000007c459       0x57 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-memcmp-sse2.os)
+ .debug_str     0x000000000007c4b0       0x64 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-strchr-sse2.os)
+ .debug_str     0x000000000007c514       0x64 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-strlen-sse2.os)
+ .debug_str     0x000000000007c578       0x64 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-strnlen-sse2.os)
+ .debug_str     0x000000000007c5dc       0x57 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-stpcpy-sse2.os)
+ .debug_str     0x000000000007c633       0x58 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-strcspn-sse2.os)
+ .debug_str     0x000000000007c68b       0x75 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-memmove-sse2-unaligned-erms.os)
+ .debug_str     0x000000000007c700       0x74 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-memset-sse2-unaligned-erms.os)
+ .debug_str     0x000000000007c774       0x65 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-strrchr-sse2.os)
+ .debug_str     0x000000000007c7d9       0x5d /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-setitimer.os)
+
+.debug_loc      0x0000000000000000    0x31f58
+ *(.debug_loc)
+ .debug_loc     0x0000000000000000    0x2fcdc /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os
+ .debug_loc     0x000000000002fcdc      0x138 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-check_fds.os)
+ .debug_loc     0x000000000002fe14       0x82 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-closedir.os)
+ .debug_loc     0x000000000002fe96      0x1a8 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-readdir.os)
+ .debug_loc     0x000000000003003e       0x4c /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-rewinddir.os)
+ .debug_loc     0x000000000003008a      0x313 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-getdents.os)
+ .debug_loc     0x000000000003039d       0xbe /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-fdopendir.os)
+ .debug_loc     0x000000000003045b       0x65 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ .debug_loc     0x00000000000304c0      0x23a /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-profil.os)
+ .debug_loc     0x00000000000306fa      0x182 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-xstat.os)
+ .debug_loc     0x000000000003087c      0x182 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-fxstat.os)
+ .debug_loc     0x00000000000309fe      0x182 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-lxstat.os)
+ .debug_loc     0x0000000000030b80      0x299 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-open64.os)
+ .debug_loc     0x0000000000030e19      0x1b7 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-openat64.os)
+ .debug_loc     0x0000000000030fd0       0x5b /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-read.os)
+ .debug_loc     0x000000000003102b       0x5b /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-write.os)
+ .debug_loc     0x0000000000031086       0x5b /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-lseek64.os)
+ .debug_loc     0x00000000000310e1       0x5b /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-access.os)
+ .debug_loc     0x000000000003113c      0x225 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-fcntl.os)
+ .debug_loc     0x0000000000031361       0x5b /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-close.os)
+ .debug_loc     0x00000000000313bc      0x57d /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-mmap64.os)
+ .debug_loc     0x0000000000031939      0x148 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-_exit.os)
+ .debug_loc     0x0000000000031a81      0x339 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-sigaction.os)
+ .debug_loc     0x0000000000031dba      0x107 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-strdup.os)
+ .debug_loc     0x0000000000031ec1       0x97 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-basename.os)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x0000000000000000     0x7ad0
+ *(.debug_ranges)
+ .debug_ranges  0x0000000000000000     0x7560 /home/khsieh3/util/glibc_2.27/glibc_build/elf/dl-allobjs.os
+ .debug_ranges  0x0000000000007560       0xa0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-readdir.os)
+ .debug_ranges  0x0000000000007600       0xb0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-getdents.os)
+ .debug_ranges  0x00000000000076b0       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-profil.os)
+ .debug_ranges  0x00000000000076e0       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-xstat.os)
+ .debug_ranges  0x0000000000007710       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-fxstat.os)
+ .debug_ranges  0x0000000000007740       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-lxstat.os)
+ .debug_ranges  0x0000000000007770       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-open64.os)
+ .debug_ranges  0x00000000000077a0       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-openat64.os)
+ .debug_ranges  0x00000000000077d0       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-read.os)
+ .debug_ranges  0x0000000000007800       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-write.os)
+ .debug_ranges  0x0000000000007830       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-lseek64.os)
+ .debug_ranges  0x0000000000007860       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-access.os)
+ .debug_ranges  0x0000000000007890       0x60 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-fcntl.os)
+ .debug_ranges  0x00000000000078f0       0x30 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-close.os)
+ .debug_ranges  0x0000000000007920       0x60 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-mmap64.os)
+ .debug_ranges  0x0000000000007980       0x90 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-_exit.os)
+ .debug_ranges  0x0000000000007a10       0xc0 /home/khsieh3/util/glibc_2.27/glibc_build/elf/rtld-libc.a(rtld-sigaction.os)
+
+.debug_macro
+ *(.debug_macro)
+
+.debug_addr
+ *(.debug_addr)
+
+.gnu.attributes
+ *(.gnu.attributes)
+OUTPUT(/home/khsieh3/util/glibc_2.27/glibc_build/elf/librtld.os elf64-x86-64)

@@ -1,0 +1,19 @@
+/home/khsieh3/util/glibc_2.27/glibc_build/mathvec/svml_s_logf_data.o: \
+ ../sysdeps/x86_64/fpu/svml_s_logf_data.S ../include/stdc-predef.h \
+ /home/khsieh3/util/glibc_2.27/glibc_build/libc-modules.h \
+ ../include/libc-symbols.h \
+ /home/khsieh3/util/glibc_2.27/glibc_build/config.h \
+ ../sysdeps/generic/symbol-hacks.h \
+ ../sysdeps/x86_64/fpu/svml_s_logf_data.h
+
+../include/stdc-predef.h:
+
+/home/khsieh3/util/glibc_2.27/glibc_build/libc-modules.h:
+
+../include/libc-symbols.h:
+
+/home/khsieh3/util/glibc_2.27/glibc_build/config.h:
+
+../sysdeps/generic/symbol-hacks.h:
+
+../sysdeps/x86_64/fpu/svml_s_logf_data.h:
